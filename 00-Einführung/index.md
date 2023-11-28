@@ -1,27 +1,21 @@
 ---
-Title: "Einführung in Mods, MCreator & Unser Projekt"
+Title: "Kurze Einführung zum Thema KI"
 Draft: false
 Description: "Worum geht es hier eigentlich? Eine kurze Übersicht!"
 Weight: 5
 ---
 
-# Einführung in MCreator & unser Projekt
+# Einführung
 
-## Unser Projekt: Darum gehts.
-
-Aber was machen wir hier eigentlich? 
 
 
 ## Übersicht des Workshops - Ziele Inhalte Methoden (ZIM)
 
 
-| Dauer | Ziele, Inhalte, Methoden | Materialien |
-|-------|-------------------------|-------------|
-| 10 min         | Einführung: Vorstellung des Workshops | Laptop, Internetzugang |
-| 20 min         | Grundlagen: Erklärung der Grundbegriffe | Handout, Beispiele |
-|        30 min          | Praktische Übung: Umsetzung eines kleinen Projekts | MCreator-Software, Beispielprojekt |
-|        15 min         | Pause | - |
-|        25 min         | Vertiefung: Vertiefung der erlernten Inhalte | Präsentationsfolien, Beispiele |
-|        30 min         | Projektarbeit: Umsetzung eines größeren Projekts | MCreator-Software, Projektidee |
-|        10 min         | Abschluss: Zusammenfassung und Feedback | - |
-
+| Dauer | Schritt                                                               | Methode                            |
+|-------|-----------------------------------------------------------------------|------------------------------------|
+| 30m    | Einführung in das Thema Künstliche Intelligenz (KI) und interaktive Umfrage .               |  Kurze Präsentation, Live-Umfrage, Kurzes Video       |
+| 15m   | Einführung in das Rollenspiel: Auswahl des Szenarios, Gruppenaufteilung, jede Gruppe vertritt eine andere Perspektive vertritt (Schüler, Lehrer, Eltern, Schulleitung). | Live-Umfrage        |
+| 30m  | Durchführung des Rollenspiels. |  Diskussion in Gruppen       |
+| 15m  | Diskussion in der Rollen: jede Gruppe vertritt in einem Interview die jeweiligen Standpunkte. | FishBowl-Methode         |
+| 15m | Nachbesprechung und Reflexion über das Erlebte im Rollenspiel.  Diskussion über die Vor- und Nachteile von KI in der Bildung.                                     |   Offene Diskussion      |

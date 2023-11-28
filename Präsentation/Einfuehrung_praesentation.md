@@ -9,29 +9,33 @@ marp: true
 
 ![bg left:40% 80%](https://marp.app/assets/marp.svg)
 
-# **Präsentation**
+# **Übersicht - was ist KI?**
 
-Es ist soo enifach eine Präsentation zu machen...
-
----
-
-# Wie man die einzelnen Slides machte
-
-Die seiten werden mit (`---`) getrennt. Sooo einfach! :satisfied:
-
-```markdown
-# Slide 1
-
-foobar
+Gregor Walter - KidsLab.de
 
 ---
 
-# Slide 2
+Künstliche Intelligenz (KI), auch artifizielle Intelligenz (AI), englisch artificial intelligence, ist ein Teilgebiet der Informatik, es umfasst alle Anstrengungen, deren Ziel es ist, Maschinen intelligent zu machen. Dabei wird Intelligenz verstanden als die Eigenschaft, die ein Wesen befähigt, angemessen und vorausschauend in seiner Umgebung zu agieren; dazu gehört die Fähigkeit, Sinneseindrücke wahrzunehmen und darauf zu reagieren, Informationen aufzunehmen, zu verarbeiten und als Wissen zu speichern, Sprache zu verstehen und zu erzeugen, Probleme zu lösen und Ziele zu erreichen. 
 
-foobar
-```
+Quelle: Wikipedia
 
 ---
+
+![width:800px](machine-learning-vs-deep-learning.jpg)
+
+Quelle: https://datasolut.com/was-ist-deep-learning/
+
+---
+
+# ... und dann kam ChatGPT
+
+- Veröffentlichung September 2022
+- 1 Million nutzer in 5 Tagn - obwohl begrenzt 
+- sehr sehr einfach zu bedienen - ohne Vorwissen
+- Einfach wie ein Chat mit einem Menschen
+
+---
+
 
 # Erzeugen als PDF
 ##  Beispiel: VSCode
@@ -40,4 +44,19 @@ foobar
     - ![width:600px](0-install.png)
 1. PDF generieren
     - ![width:600px](1-how-to-export.png)
+
+---
+
+# Machine Bias
+
+## Haben Computer Vorurteile?
+
+---
+
+TODO: Video mit einführung.
+
+https://ki-campus.org/videos/wasistki
+
+
+https://www.youtube.com/watch?v=Z8jMKp6wd9g
 

@@ -54,3 +54,7 @@ Wir freuen uns über Beiträge zu diesem Projekt. Wenn du Verbesserungsvorschlä
 ## Kontakt
 
 Bei Fragen oder Anregungen kannst du uns unter gregor@kidslab.de kontaktieren.
+
+## Inhalte mit Unterstützung von KI-Systemen ertsellt
+
+Einige der Inhalte dieses OER wurden mit Unterstützung von KI-Systemen, konkret ChatGPT 4.0, erstellt. Beispiel Titelbild & Text- und Rechtschreibkontrolle.
