@@ -53,7 +53,6 @@ Quelle: https://datasolut.com/was-ist-deep-learning/
 
 ---
 
-TODO: Video mit einführung.
 
 https://ki-campus.org/videos/wasistki
 

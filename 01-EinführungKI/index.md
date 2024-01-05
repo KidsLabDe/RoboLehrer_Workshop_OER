@@ -24,20 +24,68 @@ Im ersten Schritt wollen wir den aktuellen Stand der Schülerinnen und Schüler 
 
 Die Umfrage findet anonym mit einem Echtzeit-Umfrage-Tool statt. Mentimeter ist das bekannteste Tool, wir empfehlen ParticyFy oder WortWölkchen.
 
-TODO: Vorbereitete Umfrage mit WortWölkchen
-
-
 
 ## Was ist KI? - 15 Minuten
 
-Kurze Einführung zu KI - nur ganz kurz, Abgrenzung, wo kommen die Daten her etc.
-
-TODO: 2-5 Minuten Video raussuchen.
-TODO: Kleine Präsentation. Basis: Lehrerpräsentation. 
+**Einführungsvideo**
 
 
+{{% notice note Was steckt hinter KI überhaupt? %}}  
 
-{{% notice warning Warnung Titel %}}  
+Dieses Video erklärt in 2 Minuten, was KI überhaupt ist:
+[Video: Was ist KI?](https://ki-campus.org/videos/wasistki)
+
+Das Video ist auch auf YouTube verfügbar, beim anschauen über die Webseit des Ki-Compus wird es aber ohne YouTube-Werbung angezeigt.
+{{% /notice %}}
+### Kurze Umfrage zum Thema KI
+
+Folgende Fragen können helfen, einen Einstieg zum Thema KI im normalen Leben zu erleichtern:
+
+**Wie findest du Tierroboter und könntest du dir vorstellen einen zu besitzen?**
+
+A: Ich finde sie total süß und würde gerne einen halten.
+
+B: Nein, denn ich finde echte Haustiere definitiv besser.
+
+**Würdest du eine Operation an deinem Körper eher einer Künstlichen Intelligenz (KI) oder einem menschlichen Arzt anvertrauen?**
+
+A: Gut entwickelte Maschinen sind präziser als Menschen, also lieber eine KI.
+
+B: Ich würde mich nie von einer KI behandeln lassen. Was wäre, wenn sie eine Fehlfunktion hat?
+
+**Kannst du dir vorstellen mit einem Roboter befreundet zu sein?**
+
+A: Ja sicher, wenn sie mit mir kommunizieren können.
+
+B: Ich kann mir Freundschaften nur mit Menschen vorstellen.
+
+**Weißt du was ChatGPT ist und hast du es bereits genutzt?**
+
+A: Ja, ich habe es bereits für die Schule o.ä. genutzt.
+
+B: Nein, ich kann mir darunter wenig vorstellen.
+
+**Findest du Sprachassistenten wie beispielsweise Siri oder Alexa hilfreich?**
+
+A: Ja, es macht sogar echt Spaß mit ihnen zu reden.
+
+B: Nein, weil ich das Gefühl habe, dass mehr Daten von mir gesammelt werden.
+
+**Wird der Verkehr sicherer, wenn Autos von alleine fahren könnten?**
+
+A: Natürlich, die Fehlerquelle der Unfälle sind ja die Fahrer*innen, nicht die Autos.
+
+B: Nicht wirklich, da technische Fehler passieren können und man als Fahrer*in die vollständige Kontrolle über das Fahrzeug verliert.
+
+**Wie würdest du dich fühlen, wenn eine Roboter-Pflegekraft dich im Krankenhaus betreuen würde?**
+
+A: Wäre für mich gar kein Thema, die Pflege braucht ohnehin mehr Arbeitskräfte und das müssen ja keine Menschen sein.
+
+B: Das würde mir etwas Angst bereiten, weil es um meine Gesundheit und Genesung geht.
+
+
+
+{{% notice warning Darf man KI in der Schule einsetzen? %}}  
 Wie sieht das eigentlich rechtlich aus, mit dem Einsatz von KI an der Schule?
 Die "[Handreichung Künstliche Intelligenz in Schule und Unterricht](https://digitale-schule.hessen.de/unterricht-und-paedagogik/handreichung-kuenstliche-intelligenz-ki-in-schule-und-unterricht)" der "Digitalen Schule Hessen" bietet eine sehr gute Übersicht! 
 
