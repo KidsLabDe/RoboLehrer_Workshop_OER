@@ -4,6 +4,7 @@ Draft: false
 Description: "In diesem Abschnitt erstellst du dein erstes Projekt. Wir werden die einzelnen Elemente des Programms kennenlernen."
 Weight: 10
 ---
+<!--Muss hier nicht das rein?| 30m    | Einführung in das Thema Künstliche Intelligenz (KI) und interaktive Umfrage.               |  Kurze Präsentation, Live-Umfrage, Kurzes Video       |-->
 
 # KI - was ist das überhaupt?
 
