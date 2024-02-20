@@ -15,7 +15,7 @@ Es gibt Namensschilder - in 4 verschiedenen Farben. Es gibt pro Teilnehmer\*in g
 {{% notice note Was steckt hinter den Farben? %}}  
 Durch die Farben werden die Teilnehmenden in 4 Gruppen eingeteilt. Das passiert zufällig, die Teilnehmenden kennen ja diesen Hintergrund nicht - so werden die Gruppen bunt und zufällig gemischt.
 {{% /notice %}}
-
+<!--Was bedeutet das notice? Ist es etwas für die Formatierung oder kann es weg?-->
 
 
 ## Interaktive Umfrage - 15 Minuten
@@ -23,7 +23,7 @@ Durch die Farben werden die Teilnehmenden in 4 Gruppen eingeteilt. Das passiert 
 Im ersten Schritt wollen wir den aktuellen Stand der Schüler*innen zum Thema KI feststellen: Wer benutzt bereits KI, welche Chancen & Risiken sehen die Teilnehmenden, wird bereits KI an ihrer Schule eingesetzt oder thematisiert?
 
 Die Umfrage findet anonym mit einem Echtzeit-Umfrage-Tool statt. Mentimeter ist das bekannteste Tool, wir empfehlen ParticyFy oder WortWölkchen.
-
+<!--Links zu den Tools wären toll-->
 
 ## Was ist KI? - 15 Minuten
 
@@ -35,11 +35,11 @@ Die Umfrage findet anonym mit einem Echtzeit-Umfrage-Tool statt. Mentimeter ist 
 Dieses Video erklärt in 2 Minuten, was KI überhaupt ist:
 [Video: Was ist KI?](https://ki-campus.org/videos/wasistki)
 
-Das Video ist auch auf YouTube verfügbar, beim anschauen über die Webseit des Ki-Compus wird es aber ohne YouTube-Werbung angezeigt.
+Das Video ist auch auf YouTube verfügbar, beim Anschauen über die Webseite des Ki-Campus wird es aber ohne YouTube-Werbung angezeigt.
 {{% /notice %}}
 ### Kurze Umfrage zum Thema KI
 
-Folgende Fragen können helfen, einen Einstieg zum Thema KI im normalen Leben zu erleichtern:
+Folgende Fragen können helfen, einen Einstieg zum Thema KI im Alltag zu erleichtern:
 
 **Wie findest du Tierroboter und könntest du dir vorstellen einen zu besitzen?**
 
@@ -47,7 +47,7 @@ A: Ich finde sie total süß und würde gerne einen halten.
 
 B: Nein, denn ich finde echte Haustiere definitiv besser.
 
-**Würdest du eine Operation an deinem Körper eher einer Künstlichen Intelligenz (KI) oder einem menschlichen Arzt anvertrauen?**
+**Würdest du eine Operation an deinem Körper eher einer Künstlichen Intelligenz (KI) oder einer*m menschlichen Arzt\*in anvertrauen?**
 
 A: Gut entwickelte Maschinen sind präziser als Menschen, also lieber eine KI.
 
@@ -69,7 +69,7 @@ B: Nein, ich kann mir darunter wenig vorstellen.
 
 A: Ja, es macht sogar echt Spaß mit ihnen zu reden.
 
-B: Nein, weil ich das Gefühl habe, dass mehr Daten von mir gesammelt werden.
+B: Nein, weil ich das Gefühl habe, dass sie Daten von mir sammeln.
 
 **Wird der Verkehr sicherer, wenn Autos von alleine fahren könnten?**
 
