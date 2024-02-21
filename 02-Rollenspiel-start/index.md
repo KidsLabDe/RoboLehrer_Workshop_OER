@@ -55,7 +55,9 @@ Danach werden die einzelnen Rollen den Farben zugeordnet:
 
 Jede Gruppe / Rolle erhält einen Zettel mit wichtigen Fragen.
 
-### Diskussion in der Gruppe
+## Rollenspiel 
+
+### Diskussion in der Gruppe (30 Minuten)
 
 Die Gruppen haben nun 20 Minuten Zeit das Szenario zu bewerten.
 
@@ -70,20 +72,23 @@ Diskutiert folgende Fragen und schreibt positive und negative Aspekte auf versch
   Negativ - Rote PostIts oder Zettel
 
 
-Entscheidung: Chance oder Risiko?
+Fällt eine Entscheidung: Ist die KI eine Chance oder ein Risiko?
   
-  1. Action Plan: was muss passieren, dass das positiv (chance) oder negativ (risiko) wird?
-  1. Welchen Beitrag kann ich leisten, damit das passiert bzw. verhindert wird?
+  1. Action Plan: was muss passieren, dass das positiv (chance) oder negativ (risiko) wird? <!--Hier versteh ich nicht, ob die Gruppen beide Optionen diskutieren sollen oder die jeweils gegegnsätzliche zu ihrer Bewertung?-->
+  2. Welchen Beitrag kann ich (meine Rolle) leisten, damit das passiert bzw. verhindert wird? <!--s.o. Hier möchtest du darauf hinaus, was die Rolle tun kann, damit die KI Chancen verspricht und keine Risiken, oder?-->
 
-### Interview mit jeweils einer*m Teilnehmer\*in aus dem Rollen-Team
+### Interview mit jeweils einer*m Teilnehmer\*in aus dem Rollen-Team (15 Minuten)
 
-Eine TV-Interview-Sendung
-Ein Moderator (der Workshopleiter) interviewt die Sprecher der einzelnen Interessensgruppen zu dem Szenario.
+Wählt eine\*n Sprecher\*in für eure Gruppe, diese wird zu einer fiktiven Diskussionsrunde eines Podcasts eingeladen. 
+Ein\*e Moderator*in (workshopleitende Person) interviewt die Sprecher\*innen der einzelnen Interessensgruppen zu dem Szenario.
 
-(Fishbowl-Methode: Eine kleine Gruppe von Teilnehmern sitzt in einem inneren Kreis und diskutiert das Szenario. Die anderen Teilnehmer bilden einen äußeren Kreis und beobachten die Diskussion.)
+(Fishbowl-Methode: Die Sprecher\*innen und die\*der Moderator*in sitzen in einem inneren Stuhlkreis und diskutieren das Szenario. Die anderen Teilnehmer\*innen bilden einen äußeren Kreis und beobachten die Diskussion.)
 
-## Reflektion & Nachbesprechung
+## Reflektion & Nachbesprechung (15 Minuten)
 
+<!--Beispielfragen?-->
+
+Wie gehts euch nach dem Rollenspiel und was war eure Erkenntnis dabei?
 
 
 
