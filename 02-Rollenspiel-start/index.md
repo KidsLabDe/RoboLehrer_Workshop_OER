@@ -19,7 +19,7 @@ Jetzt wird es aufgedeckt: jede Farbe ist ein Team und damit eine Rolle in unsere
 
 ### Persönliche Lernassistenz
 
-In diesem Szenario verfügt jede*r Schüler*in über eine KI-basierte Lernassistenz, die den Lernstil und die Bedürfnisse der einzelnen Schüler*innen kennt. Die Schüler*innen können die Vor- und Nachteile dieser individuellen Betreuung durch KI diskutieren, einschließlich der Fragen um ihre eigene Privatsphäre und Abhängigkeit von Technologie.
+In diesem Szenario verfügt jede\*r Schüler\*in über eine KI-basierte Lernassistenz, die den Lernstil und die Bedürfnisse der einzelnen Schüler\*innen kennt. Die Schüler\*innen können die Vor- und Nachteile dieser individuellen Betreuung durch KI diskutieren, einschließlich der Fragen um ihre eigene Privatsphäre und Abhängigkeit von Technologie.
 
 ### Automatisierte Bewertungssysteme
 
@@ -27,7 +27,7 @@ Hier können die Schüler*innen ein System besprechen, das Hausaufgaben und Prü
 
 ### Überwachung & Verhaltensmanagement
 
-In diesem Szenario werden KI-Systeme zur Überwachung des Schüler*innenverhaltens und zur Aufrechterhaltung der Disziplin eingesetzt. Dies wirft Fragen zur Privatsphäre, zur Überwachung und zu den ethischen Grenzen von KI in der Schule auf. 
+In diesem Szenario werden KI-Systeme zur Überwachung des Schüler\*innenverhaltens und zur Aufrechterhaltung der Disziplin eingesetzt. Dies wirft Fragen zur Privatsphäre, zur Überwachung und zu den ethischen Grenzen von KI in der Schule auf. 
 
 
 ### Lebendiger Geschichtsunterricht
@@ -47,10 +47,10 @@ Danach werden die einzelnen Rollen den Farben zugeordnet:
 
 | Farbe        | Rolle           |
 |--------------|-----------------|
-| Rot          | Lehrer*innen          |
+| Rot          | Lehrer\*innen          |
 | Blau         | Eltern          |
-| Grün         | Schüler*innen         |
-| Gelb         | Rektor*in          |
+| Grün         | Schüler\*innen         |
+| Gelb         | Rektor\*in          |
 
 
 Jede Gruppe / Rolle erhält einen Zettel mit wichtigen Fragen.
@@ -62,7 +62,7 @@ Die Gruppen haben nun 20 Minuten Zeit das Szenario zu bewerten.
 Diskutiert folgende Fragen und schreibt positive und negative Aspekte auf verschiedenfarbige (grüne/rote) Zettel:
 
   1. Weches Problem wird durch die KI gelöst?
-  2. Warum geht mich (Lehrer*in / Schüler\*in / Eltern / Schulleitung) das was an?
+  2. Warum geht mich (Lehrer\*in / Schüler\*in / Eltern / Schulleitung) das was an?
   3. Positiv: Was wären, aus meiner Perspektive, die Chancen?
   4. Negativ: Was wäre, aus meiner Perspektive, Risiken?
   
