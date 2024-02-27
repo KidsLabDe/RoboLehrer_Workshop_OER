@@ -10,7 +10,7 @@ Weight: 10
 
 ## Willkommen!
 
-Heiße die Teilnehmer*innen  willkommen! 
+Heiße die Teilnehmer*innen willkommen! 
 Es gibt Namensschilder - in 4 verschiedenen Farben. Es gibt pro Teilnehmer\*in genau ein Namensschild - jede Person sucht sich eine Farbe aus. An diesem Punkt werden die Farben weder thematisiert noch erklärt.
 
 {{% notice note Was steckt hinter den Farben? %}}  
