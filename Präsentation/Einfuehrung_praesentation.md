@@ -15,7 +15,7 @@ Gregor Walter - KidsLab.de
 
 ---
 
-Künstliche Intelligenz (KI), auch artifizielle Intelligenz (AI), englisch artificial intelligence, ist ein Teilgebiet der Informatik, es umfasst alle Anstrengungen, deren Ziel es ist, Maschinen intelligent zu machen. Dabei wird Intelligenz verstanden als die Eigenschaft, die ein Wesen befähigt, angemessen und vorausschauend in seiner Umgebung zu agieren; dazu gehört die Fähigkeit, Sinneseindrücke wahrzunehmen und darauf zu reagieren, Informationen aufzunehmen, zu verarbeiten und als Wissen zu speichern, Sprache zu verstehen und zu erzeugen, Probleme zu lösen und Ziele zu erreichen. 
+Künstliche Intelligenz (KI), auch artifizielle Intelligenz (AI), englisch artificial intelligence, ist ein Teilgebiet der Informatik, deren Ziel es ist, Maschinen intelligent zu machen. Dabei wird Intelligenz als Eigenschaften verstanden, um angemessen und vorausschauend in der eigenen Umgebung zu agieren; Sinneseindrücke wahrzunehmen und darauf zu reagieren; Informationen aufzunehmen, zu verarbeiten und als Wissen zu speichern, Sprache zu verstehen und zu erzeugen, Probleme zu lösen und Ziele zu erreichen. 
 
 Quelle: Wikipedia
 
@@ -32,13 +32,15 @@ Quelle: https://datasolut.com/was-ist-deep-learning/
 - Veröffentlichung September 2022
 - 1 Million Nutzer*innen in den ersten 5 Tagen - obwohl begrenzt <!--versteh ich nicht: was heißt 'obwohl begrenzt?-->
 - sehr sehr einfach zu bedienen - ohne Vorwissen
-- fhlt sich wie ein Chat mit einem Menschen an
+- fühlt sich wie ein Chat mit einem Menschen an
 
 ---
 
 
 # Erzeugen als PDF
 ##  Beispiel: VSCode
+
+<!-- Ein Stichpunkt dazu was VSCode ist?-->
 
 1. Extension installieren
     - ![width:600px](0-install.png)
@@ -49,7 +51,9 @@ Quelle: https://datasolut.com/was-ist-deep-learning/
 
 # Machine Bias
 
-## Haben Computer Vorurteile?
+<!-- ich würde diesen Teil nach der Erläuterung was eine KI ist stellen. Daran kann dann machine leraning erklärt werden-->
+
+## Warum haben KIs Vorurteile?
 
 ---
 
@@ -58,4 +62,6 @@ https://ki-campus.org/videos/wasistki
 
 
 https://www.youtube.com/watch?v=Z8jMKp6wd9g
+
+<!--Willst du die Filem zeigen? Wenn ja, wann in der Präsentation?-->
 
