@@ -55,6 +55,11 @@ Quelle: https://datasolut.com/was-ist-deep-learning/
 
 ## Warum haben KIs Vorurteile?
 
+- KIs werden von Menschen gemacht und mit Datensätzen trainiert
+- Trainingsdatensätze bestimmen was die KI als richtig und normal erachtet
+- Problem: die meisten Daten bilden priviligierte Menschen ab (also nicht-behinderte Menschen, weiße Menschen, Männer)
+- KIs deuten also oft das Verhalten von Menschen mit Behinderungen, People of Colour und Schwarzen Menschen und Frauen falsch 
+
 ---
 
 
