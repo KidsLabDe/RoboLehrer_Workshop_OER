@@ -31,7 +31,7 @@ Quelle: https://datasolut.com/was-ist-deep-learning/
 
 - Veröffentlichung September 2022
 - 1 Million Nutzer*innen in den ersten 5 Tagen - obwohl begrenzt <!--versteh ich nicht: was heißt 'obwohl begrenzt?-->
-- sehr sehr einfach zu bedienen - ohne Vorwissen
+- auch ohne Vorwissen sehr einfach zu bedienen
 - fühlt sich wie ein Chat mit einem Menschen an
 
 ---
