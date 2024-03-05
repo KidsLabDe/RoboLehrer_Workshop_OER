@@ -69,6 +69,7 @@ Diskutiert folgende Fragen und schreibt positive und negative Aspekte auf versch
   4. Negativ: Was wäre, aus meiner Perspektive, Risiken?
   
   Positiv - Grüne PostIts oder Zettel
+  
   Negativ - Rote PostIts oder Zettel
 
 
