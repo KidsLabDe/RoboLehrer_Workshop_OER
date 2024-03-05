@@ -26,15 +26,16 @@ pandoc-latex-environment:
 
 ##  Problemstellung
 - Wie verändert die neue Technologie deine Art zu unterrichten? Könnte sie den Unterricht besser oder schwieriger machen?
+<!-- besser und schwieriger schließt sich nicht aus -->
 - Wie fühlst du dich dabei, wenn Technologie einige deiner Aufgaben übernimmt?
 
 ## Persönliche Betroffenheit**
 - Überlege, wie diese Technologie dir helfen oder deine Arbeit als Lehrer beeinflussen kann. Was sind deine größten Hoffnungen und Sorgen?
-- Wie könntest du die Technologie nutzen, um deinen Schülern besser zu helfen?
+- Wie könntest du die Technologie nutzen, um deinen Schüler*innen besser zu helfen?
 
 ## Hintergrund
 - Denke darüber nach, was diese Technologie besonders macht. Warum wird sie in der Schule eingeführt?
-- Wie könntest du mit Lehrern und Mitschülern zusammenarbeiten, um das Beste aus der Technologie herauszuholen?
+- Wie könntest du mit Lehrkräften und Mitschüler*innen zusammenarbeiten, um das Beste aus der Technologie herauszuholen?
 
 
 \newpage
