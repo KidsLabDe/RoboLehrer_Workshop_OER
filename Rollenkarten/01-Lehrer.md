@@ -19,7 +19,7 @@ pandoc-latex-environment:
 
 
 
-# Rollenkarte: Lehrer
+# Rollenkarte: Lehrer\*in
 
 ![](Lehrer_klein.png)
 
@@ -31,11 +31,11 @@ pandoc-latex-environment:
 
 ## Persönliche Betroffenheit**
 - Überlege, wie diese Technologie dir helfen oder deine Arbeit als Lehrer beeinflussen kann. Was sind deine größten Hoffnungen und Sorgen?
-- Wie könntest du die Technologie nutzen, um deinen Schüler*innen besser zu helfen?
+- Wie könntest du die Technologie nutzen, um deinen Schüler\*innen besser zu helfen?
 
 ## Hintergrund
 - Denke darüber nach, was diese Technologie besonders macht. Warum wird sie in der Schule eingeführt?
-- Wie könntest du mit Lehrkräften und Mitschüler*innen zusammenarbeiten, um das Beste aus der Technologie herauszuholen?
+- Wie könntest du mit Lehrkräften und Mitschüler\*innen zusammenarbeiten, um das Beste aus der Technologie herauszuholen?
 
 
 \newpage
