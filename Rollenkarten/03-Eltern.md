@@ -30,7 +30,7 @@ pandoc-latex-environment:
 
 ## Persönliche Betroffenheit
 - Überlege, wie du dein Kind unterstützen kannst, um sicherzustellen, dass es von der Technologie profitiert und nicht überwältigt wird.
-- Wie könntest du mit Lehrern und der Schule kommunizieren, um die besten Ergebnisse für dein Kind zu erreichen?
+- Wie könntest du mit Lehrkräften und der Schule kommunizieren, um die besten Ergebnisse für dein Kind zu erreichen?
 
 # Hintergrund
 - Denke darüber nach, wie diese Technologie das Lernen und die Entwicklung deines Kindes fördern kann. Welche Chancen siehst du?
