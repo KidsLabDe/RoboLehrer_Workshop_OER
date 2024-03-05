@@ -19,7 +19,7 @@ pandoc-latex-environment:
 
 
 
-# Rollenkarte: Rektor
+# Rollenkarte: Rektor\*in
 
 ![](Rektor_klein.png)
 
@@ -30,7 +30,7 @@ pandoc-latex-environment:
 
 ## Persönliche Betroffenheit
 - Überlege, wie du die Schule führen und sicherstellen kannst, dass die Technologie positiv zum Lernumfeld beiträgt.
-- Wie könntest du Lehrer, Schüler und Eltern in den Prozess der Einführung und Nutzung der Technologie einbeziehen?
+- Wie könntest du Lehrkräften, Schüler\*innen und Eltern in den Prozess der Einführung und Nutzung der Technologie einbeziehen?
 
 # Hintergrund
 - Denke darüber nach, welche Ziele du mit der Einführung der Technologie verfolgst. Wie passt sie zur Vision der Schule?
