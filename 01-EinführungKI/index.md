@@ -84,7 +84,7 @@ A: Wäre für mich gar kein Thema, die Pflege braucht ohnehin mehr Arbeitskräft
 
 B: Das würde mir etwas Angst bereiten, weil es um meine Gesundheit und Genesung geht.
 
-
+<!-- die Antwortmöglichkeiten sind sehr binär, es könnten viele Rückfraen entstehen>>
 
 {{% notice warning Darf man KI in der Schule einsetzen? %}}  
 Wie sieht das eigentlich rechtlich aus, mit dem Einsatz von KI an der Schule?
