@@ -87,9 +87,15 @@ Ein\*e Moderator*in (workshopleitende Person) interviewt die Sprecher\*innen der
 
 ## Reflektion & Nachbesprechung (15 Minuten)
 
-<!--Beispielfragen?-->
 
-Wie gehts euch nach dem Rollenspiel und was war eure Erkenntnis dabei?
+Die Diskussion kann offen gestaltet werden. Hier ein paar exemplarische Fragen, die man mit besprechen kann:
 
-
-
+1. Welche neuen Perspektiven oder Erkenntnisse hast du durch das Rollenspiel gewonnen?
+2. Wie hat sich deine Meinung zu dem Thema KI in der Bildung durch das Rollenspiel verändert?
+3. Welche Herausforderungen bist du während des Rollenspiels begegnet und wie hast du diese bewältigt?
+4. Welche Rolle hat dich am meisten herausgefordert und warum?
+5. Gibt es Aspekte des Szenarios, die du als unrealistisch empfandest? Wenn ja, welche und warum?
+6. Wie würdest du das Rollenspiel verbessern, um es noch lehrreicher oder interessanter zu gestalten?
+7. Welche ethischen Bedenken wurden im Rollenspiel angesprochen, und wie denkst du darüber?
+8. Welche Strategien würdest du vorschlagen, um die positiven Aspekte der KI zu maximieren und die Risiken zu minimieren?
+9. Wie fühlst du dich persönlich bezüglich der Zukunft von KI in der Bildung nach der Teilnahme am Rollenspiel?
