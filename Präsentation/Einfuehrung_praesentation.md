@@ -15,7 +15,7 @@ Gregor Walter - KidsLab.de
 
 ---
 
-Künstliche Intelligenz (KI), auch artifizielle Intelligenz (AI), englisch artificial intelligence, ist ein Teilgebiet der Informatik, es umfasst alle Anstrengungen, deren Ziel es ist, Maschinen intelligent zu machen. Dabei wird Intelligenz verstanden als die Eigenschaft, die ein Wesen befähigt, angemessen und vorausschauend in seiner Umgebung zu agieren; dazu gehört die Fähigkeit, Sinneseindrücke wahrzunehmen und darauf zu reagieren, Informationen aufzunehmen, zu verarbeiten und als Wissen zu speichern, Sprache zu verstehen und zu erzeugen, Probleme zu lösen und Ziele zu erreichen. 
+Künstliche Intelligenz (KI), auch artifizielle Intelligenz (AI), englisch artificial intelligence, ist ein Teilgebiet der Informatik, deren Ziel es ist, Maschinen intelligent zu machen. Dabei wird Intelligenz als Eigenschaften verstanden, um angemessen und vorausschauend in der eigenen Umgebung zu agieren; Sinneseindrücke wahrzunehmen und darauf zu reagieren; Informationen aufzunehmen, zu verarbeiten und als Wissen zu speichern, Sprache zu verstehen und zu erzeugen, Probleme zu lösen und Ziele zu erreichen. 
 
 Quelle: Wikipedia
 
@@ -30,15 +30,17 @@ Quelle: https://datasolut.com/was-ist-deep-learning/
 # ... und dann kam ChatGPT
 
 - Veröffentlichung September 2022
-- 1 Million nutzer in 5 Tagn - obwohl begrenzt 
-- sehr sehr einfach zu bedienen - ohne Vorwissen
-- Einfach wie ein Chat mit einem Menschen
+- 1 Million Nutzer*innen in den ersten 5 Tagen - obwohl begrenzt <!--versteh ich nicht: was heißt 'obwohl begrenzt?-->
+- auch ohne Vorwissen sehr einfach zu bedienen
+- fühlt sich wie ein Chat mit einem Menschen an
 
 ---
 
 
 # Erzeugen als PDF
 ##  Beispiel: VSCode
+
+<!-- Ein Stichpunkt dazu was VSCode ist?-->
 
 1. Extension installieren
     - ![width:600px](0-install.png)
@@ -49,7 +51,14 @@ Quelle: https://datasolut.com/was-ist-deep-learning/
 
 # Machine Bias
 
-## Haben Computer Vorurteile?
+<!-- ich würde diesen Teil nach der Erläuterung was eine KI ist stellen. Daran kann dann machine leraning erklärt werden-->
+
+## Warum haben KIs Vorurteile?
+
+- KIs werden von Menschen gemacht und mit Datensätzen trainiert
+- Trainingsdatensätze bestimmen was die KI als richtig und normal erachtet
+- Problem: die meisten Daten bilden priviligierte Menschen ab (also nicht-behinderte Menschen, weiße Menschen, Männer)
+- KIs deuten also oft das Verhalten von Menschen mit Behinderungen, People of Colour und Schwarzen Menschen und Frauen falsch 
 
 ---
 
@@ -58,4 +67,6 @@ https://ki-campus.org/videos/wasistki
 
 
 https://www.youtube.com/watch?v=Z8jMKp6wd9g
+
+<!--Willst du die Filem zeigen? Wenn ja, wann in der Präsentation?-->
 

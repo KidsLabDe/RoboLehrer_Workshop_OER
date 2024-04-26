@@ -4,26 +4,27 @@ Draft: false
 Description: "In diesem Abschnitt erstellst du dein erstes Projekt. Wir werden die einzelnen Elemente des Programms kennenlernen."
 Weight: 10
 ---
+<!--Muss hier nicht das rein?| 30m    | Einführung in das Thema Künstliche Intelligenz (KI) und interaktive Umfrage.               |  Kurze Präsentation, Live-Umfrage, Kurzes Video       |-->
 
 # KI - was ist das überhaupt?
 
 ## Willkommen!
 
-Man heißt die Teilnehmer:innen  willkommen! Es gibt Namensschilder - in 4 verschiedenen Farben. 
-Es gibt pro Teilnehmerin bzw. Teilnehmer genau ein Namensschild - jede Person sucht sich eine Farbe aus. An diesem Punkt werden die Farben weder thematisiert noch erklärt.
+Heiße die Teilnehmer*innen willkommen! 
+Es gibt Namensschilder - in 4 verschiedenen Farben. Es gibt pro Teilnehmer\*in genau ein Namensschild - jede Person sucht sich eine Farbe aus. An diesem Punkt werden die Farben weder thematisiert noch erklärt.
 
 {{% notice note Was steckt hinter den Farben? %}}  
 Durch die Farben werden die Teilnehmenden in 4 Gruppen eingeteilt. Das passiert zufällig, die Teilnehmenden kennen ja diesen Hintergrund nicht - so werden die Gruppen bunt und zufällig gemischt.
 {{% /notice %}}
-
+<!--Was bedeutet das notice? Ist es etwas für die Formatierung oder kann es weg?-->
 
 
 ## Interaktive Umfrage - 15 Minuten
 
-Im ersten Schritt wollen wir den aktuellen Stand der Schülerinnen und Schüler zum Thema KI feststellen: Wer benutzt bereits KI, welche Chancen & Risiken sehen die Teilnehmenden, wird bereits KI an ihrer Schule eingesetzt oder thematisiert.
+Im ersten Schritt wollen wir den aktuellen Stand der Schüler*innen zum Thema KI feststellen: Wer benutzt bereits KI, welche Chancen & Risiken sehen die Teilnehmenden, wird bereits KI an ihrer Schule eingesetzt oder thematisiert?
 
 Die Umfrage findet anonym mit einem Echtzeit-Umfrage-Tool statt. Mentimeter ist das bekannteste Tool, wir empfehlen ParticyFy oder WortWölkchen.
-
+<!--Links zu den Tools wären toll-->
 
 ## Was ist KI? - 15 Minuten
 
@@ -35,11 +36,11 @@ Die Umfrage findet anonym mit einem Echtzeit-Umfrage-Tool statt. Mentimeter ist 
 Dieses Video erklärt in 2 Minuten, was KI überhaupt ist:
 [Video: Was ist KI?](https://ki-campus.org/videos/wasistki)
 
-Das Video ist auch auf YouTube verfügbar, beim anschauen über die Webseit des Ki-Compus wird es aber ohne YouTube-Werbung angezeigt.
+Das Video ist auch auf YouTube verfügbar, beim Anschauen über die Webseite des Ki-Campus wird es aber ohne YouTube-Werbung angezeigt.
 {{% /notice %}}
 ### Kurze Umfrage zum Thema KI
 
-Folgende Fragen können helfen, einen Einstieg zum Thema KI im normalen Leben zu erleichtern:
+Folgende Fragen können helfen, einen Einstieg zum Thema KI im Alltag zu erleichtern:
 
 **Wie findest du Tierroboter und könntest du dir vorstellen einen zu besitzen?**
 
@@ -47,7 +48,7 @@ A: Ich finde sie total süß und würde gerne einen halten.
 
 B: Nein, denn ich finde echte Haustiere definitiv besser.
 
-**Würdest du eine Operation an deinem Körper eher einer Künstlichen Intelligenz (KI) oder einem menschlichen Arzt anvertrauen?**
+**Würdest du eine Operation an deinem Körper eher einer Künstlichen Intelligenz (KI) oder einer*m menschlichen Arzt\*in anvertrauen?**
 
 A: Gut entwickelte Maschinen sind präziser als Menschen, also lieber eine KI.
 
@@ -69,7 +70,7 @@ B: Nein, ich kann mir darunter wenig vorstellen.
 
 A: Ja, es macht sogar echt Spaß mit ihnen zu reden.
 
-B: Nein, weil ich das Gefühl habe, dass mehr Daten von mir gesammelt werden.
+B: Nein, weil ich das Gefühl habe, dass sie Daten von mir sammeln.
 
 **Wird der Verkehr sicherer, wenn Autos von alleine fahren könnten?**
 
@@ -83,7 +84,7 @@ A: Wäre für mich gar kein Thema, die Pflege braucht ohnehin mehr Arbeitskräft
 
 B: Das würde mir etwas Angst bereiten, weil es um meine Gesundheit und Genesung geht.
 
-
+<!-- die Antwortmöglichkeiten sind sehr binär, es könnten viele Rückfraen entstehen>>
 
 {{% notice warning Darf man KI in der Schule einsetzen? %}}  
 Wie sieht das eigentlich rechtlich aus, mit dem Einsatz von KI an der Schule?
