@@ -38,7 +38,17 @@ Dieses Video erklärt in 2 Minuten, was KI überhaupt ist:
 
 Das Video ist auch auf YouTube verfügbar, beim Anschauen über die Webseite des Ki-Campus wird es aber ohne YouTube-Werbung angezeigt.
 {{% /notice %}}
+
+
+
 ### Kurze Umfrage zum Thema KI
+
+
+{{% notice success Kann man all diese Fragen mit A oder B beantworten? %}}  
+Es gibt natürlich mehr als zwei mögliche Antworten auf diese Fragen – diskutiere gerne mit den Teilnehmenden über alternative Antworten!
+{{% /notice %}}
+
+
 
 Folgende Fragen können helfen, einen Einstieg zum Thema KI im Alltag zu erleichtern:
 
@@ -84,7 +94,8 @@ A: Wäre für mich gar kein Thema, die Pflege braucht ohnehin mehr Arbeitskräft
 
 B: Das würde mir etwas Angst bereiten, weil es um meine Gesundheit und Genesung geht.
 
-<!-- die Antwortmöglichkeiten sind sehr binär, es könnten viele Rückfraen entstehen>>
+
+
 
 {{% notice warning Darf man KI in der Schule einsetzen? %}}  
 Wie sieht das eigentlich rechtlich aus, mit dem Einsatz von KI an der Schule?
