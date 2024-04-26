@@ -44,13 +44,15 @@ Das Video ist auch auf YouTube verfügbar, beim Anschauen über die Webseite des
 ### Kurze Umfrage zum Thema KI
 
 
-{{% notice success Kann man all diese Fragen mit A oder B beantworten? %}}  
-Es gibt natürlich mehr als zwei mögliche Antworten auf diese Fragen – diskutiere gerne mit den Teilnehmenden über alternative Antworten!
+Folgende Fragen können helfen, einen Einstieg zum Thema KI im Alltag zu erleichtern. 
+
+{{% notice note Durchführung der Umfrage als kleines Bewegungsspiel %}}  
+Lass die Teilnehmenden als "Aufstellung" antworten: Zwei Bereiche für A und B, und als Antwort geht man in den jeweiligen Bereich oder auf die entsprechende Seite.
 {{% /notice %}}
 
 
 
-Folgende Fragen können helfen, einen Einstieg zum Thema KI im Alltag zu erleichtern:
+
 
 **Wie findest du Tierroboter und könntest du dir vorstellen einen zu besitzen?**
 
@@ -93,6 +95,12 @@ B: Nicht wirklich, da technische Fehler passieren können und man als Fahrer*in 
 A: Wäre für mich gar kein Thema, die Pflege braucht ohnehin mehr Arbeitskräfte und das müssen ja keine Menschen sein.
 
 B: Das würde mir etwas Angst bereiten, weil es um meine Gesundheit und Genesung geht.
+
+
+
+{{% notice success Kann man all diese Fragen mit A oder B beantworten? %}}  
+Es gibt natürlich mehr als zwei mögliche Antworten auf diese Fragen – diskutiere gerne mit den Teilnehmenden über alternative Antworten!
+{{% /notice %}}
 
 
 
