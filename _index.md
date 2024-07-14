@@ -6,8 +6,8 @@ logo-width: 100mm
 toc: true
 toc-title: "Übersicht"
 toc-own-page: true
-author: KidsLab.de gGmbH 
-date: "Nevember 2023"
+author: KidsLab.de gGmbH
+date: "Juli 2024"
 subject: "Markdown"
 keywords: [Markdown, Example]
 lang: "de"
@@ -32,10 +32,10 @@ pandoc-latex-environment:
 
 
 
-# Robo-Lehrer an die Macht? 
+# Robo-Lehrer an die Macht?
 ## Ein Rollenspiel-Abenteuer über KIs und den Einsatz an Deiner Schule
 
-Der Workshop hat das Ziel, den Teilnehmern Kenntnisse über Künstliche Intelligenz (KI) zu vermitteln und einen offenen Umgang mit KI in der Schule zu fördern. Da KI oft noch ein Tabuthema ist, sollen die Teilnehmer in Gruppen aufgeteilt werden, um verschiedene Perspektiven (Schüler, Lehrer, Eltern, Schulleitung) einzunehmen und durch ein Rollenspiel das Thema zu erkunden. 
+Der Workshop hat das Ziel, den Teilnehmern Kenntnisse über Künstliche Intelligenz (KI) zu vermitteln und einen offenen Umgang mit KI in der Schule zu fördern. Da KI oft noch ein Tabuthema ist, sollen die Teilnehmer in Gruppen aufgeteilt werden, um verschiedene Perspektiven (Schüler, Lehrer, Eltern, Schulleitung) einzunehmen und durch ein Rollenspiel das Thema zu erkunden.
 
 ## Übersicht des Workshops
 
@@ -43,8 +43,8 @@ Der Workshop hat das Ziel, den Teilnehmern Kenntnisse über Künstliche Intellig
 | Dauer | Schritt                                                                                           |
 |-------|--------------------------------------------------------------------------------------------------|
 | 30m    | Einführung in das Thema Künstliche Intelligenz (KI) und interaktive Umfrage .               |
-| 15m   | Einführung in das Rollenspiel: Auswahl des Szenarios, Gruppenaufteilung, jede Gruppe vertritt eine andere Perspektive vertritt (Schüler, Lehrer, Eltern, Schulleitung). 
-| 30m  | Durchführung des Rollenspiels. 
+| 15m   | Einführung in das Rollenspiel: Auswahl des Szenarios, Gruppenaufteilung, jede Gruppe vertritt eine andere Perspektive vertritt (Schüler, Lehrer, Eltern, Schulleitung).
+| 30m  | Durchführung des Rollenspiels.
 | 15m  | Diskussion in der Rollen: jede Gruppe vertritt in einem Interview die jeweiligen Standpunkte. (FishBowl-Methode)
 | 15m | Nachbesprechung und Reflexion über das Erlebte im Rollenspiel.  Diskussion über die Vor- und Nachteile von KI in der Bildung.                                     |
 
@@ -64,13 +64,13 @@ Der Workshop hat das Ziel, den Teilnehmern Kenntnisse über Künstliche Intellig
 **Software:**       | keine
 **Geräte Mentor:**         | Laptop & Beamer für Präsentation, auch ohne möglich
 **Geräte Teilnehmer:**         | Tablet o.ä. mit Zugang zu ChatGPT (optional) - ein Tablet für 2-4 Teilnhemer
-**Internet:**       | ChatGPT benötigt Internet  
+**Internet:**       | ChatGPT benötigt Internet
 **Accounts:**   | Zugriff auch ohne Account möglich, Account wird aber empfohlen
 **Moderations-Stuff:**   | Klebezettel, Stifte, Flipchart etc., Mehrfarbige Zettel für Namensschilder (4 Farben)
 
 
 
-## Vorbereitung 
+## Vorbereitung
 - Workshops Materalien ausdrucken
 - Tablets mit Zugang für ChatGPT vorbereiten.
 
@@ -82,5 +82,5 @@ Du findest diese Anleitung - zusammen mit der Präsentation und sonstigen Inhalt
 
 # Lizenz & Weitergabe
 
-**Lizenz** CC BY 4.0 KidsLab  
-**Zielgruppe** ab 10  
+**Lizenz** CC BY 4.0 KidsLab
+**Zielgruppe** ab 10

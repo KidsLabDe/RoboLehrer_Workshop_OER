@@ -31,18 +31,31 @@ In eurer Freizeit geht ihr gerne gemeinsam ins Kino oder trefft euch mit Freunde
 
 \newpage
 
+## Das Problem
 
-## Problemstellung
-- Wie denkst du, wird diese Technologie die Bildung und das tägliche Leben deines Kindes beeinflussen?
-- Welche Sorgen hast du in Bezug auf Datenschutz und die Zeit, die dein Kind mit Technologie verbringt?
+- Wie verändert die neue Technik das Lernen deines Kindes?
+- Wie verändert sie den Alltag deines Kindes?
+- Machst du dir Sorgen um:
+  - Die Daten deines Kindes?
+  - Die Zeit, die dein Kind mit Technik verbringt?
 
-## Persönliche Betroffenheit
-- Überlege, wie du dein Kind unterstützen kannst, um sicherzustellen, dass es von der Technologie profitiert und nicht überwältigt wird.
-- Wie könntest du mit Lehrkräften und der Schule kommunizieren, um die besten Ergebnisse für dein Kind zu erreichen?
+## Was bedeutet das für dich?
 
-# Hintergrund
-- Denke darüber nach, wie diese Technologie das Lernen und die Entwicklung deines Kindes fördern kann. Welche Chancen siehst du?
-- Wie könntest du dich über die Technologie informieren und ein Teil der Diskussion über ihre Nutzung in der Schule sein?
+- Verstehst du die Technik?
+- Wie kannst du deinem Kind helfen:
+  - Die Technik gut zu nutzen?
+  - Nicht von der Technik überfordert zu sein?
+- Wie kannst du mit Lehrern und der Schule reden?
+- Wie könnt ihr zusammen das Beste für dein Kind erreichen?
+
+## Mehr Infos
+
+- Wie kann die Technik deinem Kind beim Lernen helfen?
+- Wie kann sie deinem Kind beim Großwerden helfen?
+- Was siehst du Gutes daran?
+- Wie kannst du mehr über die Technik lernen?
+- Wie kannst du mitreden, wenn es um die Technik in der Schule geht?
+
 
 \newpage
 

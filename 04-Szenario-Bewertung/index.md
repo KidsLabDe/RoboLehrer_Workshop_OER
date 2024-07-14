@@ -17,3 +17,4 @@ Die KI-Bewertungstools sind in das digitale Lernmanagementsystem der Schule inte
 Das Hauptziel ist es, den Bewertungsprozess zu vereinfachen und Lehrkräften mehr Zeit für pädagogische Tätigkeiten zu geben. Gleichzeitig sollen Schüler\*innen von schnellem und objektivem Feedback profitieren, das ihre Lernprozesse unterstützt und ihnen hilft, sich kontinuierlich zu verbessern.
 
 
+\newpage

@@ -30,19 +30,25 @@ Du bist Frieda Funkelstein, eine 42-jährige Lehrerin mit einer Vorliebe für bu
 \newpage
 
 
+## Das Problem
 
-##  Problemstellung
-- Wie verändert die neue Technologie deine Art zu unterrichten? Könnte sie den Unterricht besser oder schwieriger machen?
-<!-- besser und schwieriger schließt sich nicht aus -->
-- Wie fühlst du dich dabei, wenn Technologie einige deiner Aufgaben übernimmt?
+- Wie ändert die neue Technik deinen Unterricht?
+- Macht sie den Unterricht besser oder schwerer?
+- Wie fühlst du dich, wenn die Technik einige deiner Aufgaben macht?
 
-## Persönliche Betroffenheit**
-- Überlege, wie diese Technologie dir helfen oder deine Arbeit als Lehrer beeinflussen kann. Was sind deine größten Hoffnungen und Sorgen?
-- Wie könntest du die Technologie nutzen, um deinen Schüler\*innen besser zu helfen?
+## Was bedeutet das für dich?
 
-## Hintergrund
-- Denke darüber nach, was diese Technologie besonders macht. Warum wird sie in der Schule eingeführt?
-- Wie könntest du mit Lehrkräften und Mitschüler\*innen zusammenarbeiten, um das Beste aus der Technologie herauszuholen?
+- Wie kann dir die Technik bei der Arbeit helfen?
+- Wie verändert sie deine Arbeit als Lehrer?
+- Was hoffst du? Was macht dir Sorgen?
+- Wie kannst du mit der Technik deinen Schülern besser helfen?
+
+## Mehr Infos
+
+- Was ist an dieser Technik besonders?
+- Warum kommt sie in die Schule?
+- Wie kannst du mit anderen Lehrern und Schülern zusammenarbeiten?
+- Wie nutzt ihr die Technik am besten?
 
 
 \newpage

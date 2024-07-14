@@ -1,22 +1,21 @@
 ---
-Title: "Vorbereitung: Neues Projekt anlegen"
+Title: "Einführung in das Thema Künstliche Intelligenz (KI)"
 Draft: false
-Description: "In diesem Abschnitt erstellst du dein erstes Projekt. Wir werden die einzelnen Elemente des Programms kennenlernen."
+Description: "Einführung in das Thema Künstliche Intelligenz (KI) und interaktive Umfrage.: Kurze Präsentation, Live-Umfrage, Kurzes Video - (Dauer: 30m)"
 Weight: 10
 ---
-<!--Muss hier nicht das rein?| 30m    | Einführung in das Thema Künstliche Intelligenz (KI) und interaktive Umfrage.               |  Kurze Präsentation, Live-Umfrage, Kurzes Video       |-->
+[comment]: -Muss hier nicht das rein?| 30m    | Einführung in das Thema Künstliche Intelligenz (KI) und interaktive Umfrage.               |  Kurze Präsentation, Live-Umfrage, Kurzes Video
 
 # KI - was ist das überhaupt?
 
 ## Willkommen!
 
-Heiße die Teilnehmer*innen willkommen! 
+Heiße die Teilnehmer*innen willkommen!
 Es gibt Namensschilder - in 4 verschiedenen Farben. Es gibt pro Teilnehmer\*in genau ein Namensschild - jede Person sucht sich eine Farbe aus. An diesem Punkt werden die Farben weder thematisiert noch erklärt.
 
-{{% notice note Was steckt hinter den Farben? %}}  
+{{% notice note Was steckt hinter den Farben? %}}
 Durch die Farben werden die Teilnehmenden in 4 Gruppen eingeteilt. Das passiert zufällig, die Teilnehmenden kennen ja diesen Hintergrund nicht - so werden die Gruppen bunt und zufällig gemischt.
 {{% /notice %}}
-<!--Was bedeutet das notice? Ist es etwas für die Formatierung oder kann es weg?-->
 
 
 ## Interaktive Umfrage - 15 Minuten
@@ -24,14 +23,14 @@ Durch die Farben werden die Teilnehmenden in 4 Gruppen eingeteilt. Das passiert 
 Im ersten Schritt wollen wir den aktuellen Stand der Schüler*innen zum Thema KI feststellen: Wer benutzt bereits KI, welche Chancen & Risiken sehen die Teilnehmenden, wird bereits KI an ihrer Schule eingesetzt oder thematisiert?
 
 Die Umfrage findet anonym mit einem Echtzeit-Umfrage-Tool statt. Mentimeter ist das bekannteste Tool, wir empfehlen ParticyFy oder WortWölkchen.
-<!--Links zu den Tools wären toll-->
+[comment]: Links zu den Tools wären toll
 
 ## Was ist KI? - 15 Minuten
 
 **Einführungsvideo**
 
 
-{{% notice note Was steckt hinter KI überhaupt? %}}  
+{{% notice note Was steckt hinter KI überhaupt? %}}
 
 Dieses Video erklärt in 2 Minuten, was KI überhaupt ist:
 [Video: Was ist KI?](https://ki-campus.org/videos/wasistki)
@@ -44,9 +43,9 @@ Das Video ist auch auf YouTube verfügbar, beim Anschauen über die Webseite des
 ### Kurze Umfrage zum Thema KI
 
 
-Folgende Fragen können helfen, einen Einstieg zum Thema KI im Alltag zu erleichtern. 
+Folgende Fragen können helfen, einen Einstieg zum Thema KI im Alltag zu erleichtern.
 
-{{% notice note Durchführung der Umfrage als kleines Bewegungsspiel %}}  
+{{% notice note Durchführung der Umfrage als kleines Bewegungsspiel %}}
 Lass die Teilnehmenden als "Aufstellung" antworten: Zwei Bereiche für A und B, und als Antwort geht man in den jeweiligen Bereich oder auf die entsprechende Seite.
 {{% /notice %}}
 
@@ -98,16 +97,15 @@ B: Das würde mir etwas Angst bereiten, weil es um meine Gesundheit und Genesung
 
 
 
-{{% notice success Kann man all diese Fragen mit A oder B beantworten? %}}  
+{{% notice success Kann man all diese Fragen mit A oder B beantworten? %}}
 Es gibt natürlich mehr als zwei mögliche Antworten auf diese Fragen – diskutiere gerne mit den Teilnehmenden über alternative Antworten!
 {{% /notice %}}
 
 
 
 
-{{% notice warning Darf man KI in der Schule einsetzen? %}}  
+{{% notice warning Darf man KI in der Schule einsetzen? %}}
 Wie sieht das eigentlich rechtlich aus, mit dem Einsatz von KI an der Schule?
-Die "[Handreichung Künstliche Intelligenz in Schule und Unterricht](https://digitale-schule.hessen.de/unterricht-und-paedagogik/handreichung-kuenstliche-intelligenz-ki-in-schule-und-unterricht)" der "Digitalen Schule Hessen" bietet eine sehr gute Übersicht! 
+Die "[Handreichung Künstliche Intelligenz in Schule und Unterricht](https://digitale-schule.hessen.de/unterricht-und-paedagogik/handreichung-kuenstliche-intelligenz-ki-in-schule-und-unterricht)" der "Digitalen Schule Hessen" bietet eine sehr gute Übersicht!
 
 {{% /notice %}}
-

@@ -4,7 +4,7 @@
 # create tmp dir
 mkdir .tmp
 
-# copy all md files 
+# copy all md files
 cp _index.md .tmp/0-OER.md
 # copy and reaname all the index.md (index.md is required for website generation)
 # take only the folders starting with a number
@@ -19,7 +19,7 @@ cp *.jpg .tmp/
 cp */*.png .tmp/
 cp */*.jpg .tmp/
 
-# step into the temporal depths 
+# step into the temporal depths
 cd .tmp
 
 # replace special containers
@@ -37,16 +37,31 @@ for f in *.md; do
     ## {{% /notice %}} => :::
     sed -i.bak -E "s/{{%[[:space:]]*\/[[:space:]]*notice[[:space:]]*%}}/:::/g" $f
 
-    
+
 done
 
 # convert with pandoc
-pandoc *.md -o ../output.docx
-pandoc *.md -o "../output.pdf" --from markdown --template "../eisvogel.latex" --filter pandoc-latex-environment --listings
+pandoc *.md -o "../RoboLehrer an die Macht.docx"
+pandoc *.md -o "../RoboLehrer an die Macht.pdf" --from markdown --template "../eisvogel.latex" --filter pandoc-latex-environment --listings
+
+
+
+cd ..
+
+cd Rollenkarten
+
+pandoc 01-Lehrer.md -o "../Rollenkarte_Lehrer.pdf" --from markdown --template "../eisvogel.latex" --filter pandoc-latex-environment --listings
+pandoc 02-Schueler.md -o "../Rollenkarte_Schueler.pdf" --from markdown --template "../eisvogel.latex" --filter pandoc-latex-environment --listings
+pandoc 03-Eltern.md -o "../Rollenkarte_Eltern.pdf" --from markdown --template "../eisvogel.latex" --filter pandoc-latex-environment --listings
+pandoc 04-Rektor.md -o "../Rollenkarte_Rektor.pdf" --from markdown --template "../eisvogel.latex" --filter pandoc-latex-environment --listings
+
+pandoc 01-Lehrer-einfach.md -o "../Rollenkarte_Lehrer-einfach.pdf" --from markdown --template "../eisvogel.latex" --filter pandoc-latex-environment --listings
+pandoc 02-Schueler-einfach.md -o "../Rollenkarte_Schueler-einfach.pdf" --from markdown --template "../eisvogel.latex" --filter pandoc-latex-environment --listings
+pandoc 03-Eltern-einfach.md -o "../Rollenkarte_Eltern-einfach.pdf" --from markdown --template "../eisvogel.latex" --filter pandoc-latex-environment --listings
+pandoc 04-Rektor-einfach.md -o "../Rollenkarte_Rektor-einfach.pdf" --from markdown --template "../eisvogel.latex" --filter pandoc-latex-environment --listings
 
 
 # mission accomplished, leave .tmp/
-cd ..
 
 # get rid of .tmp/
 rm -r .tmp
