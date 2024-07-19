@@ -33,7 +33,6 @@ Du bist Frieda Funkelstein, eine 42-jährige Lehrerin mit einer Vorliebe für bu
 
 ##  Problemstellung
 - Wie verändert die neue Technologie deine Art zu unterrichten? Könnte sie den Unterricht besser oder schwieriger machen?
-<!-- besser und schwieriger schließt sich nicht aus -->
 - Wie fühlst du dich dabei, wenn Technologie einige deiner Aufgaben übernimmt?
 
 ## Persönliche Betroffenheit**

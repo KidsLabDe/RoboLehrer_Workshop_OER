@@ -37,6 +37,7 @@ pandoc-latex-environment:
 
 Der Workshop hat das Ziel, den Teilnehmern Kenntnisse über Künstliche Intelligenz (KI) zu vermitteln und einen offenen Umgang mit KI in der Schule zu fördern. Da KI oft noch ein Tabuthema ist, sollen die Teilnehmer in Gruppen aufgeteilt werden, um verschiedene Perspektiven (Schüler, Lehrer, Eltern, Schulleitung) einzunehmen und durch ein Rollenspiel das Thema zu erkunden.
 
+\newpage
 ## Übersicht des Workshops
 
 
@@ -48,6 +49,7 @@ Der Workshop hat das Ziel, den Teilnehmern Kenntnisse über Künstliche Intellig
 | 15m  | Diskussion in der Rollen: jede Gruppe vertritt in einem Interview die jeweiligen Standpunkte. (FishBowl-Methode)
 | 15m | Nachbesprechung und Reflexion über das Erlebte im Rollenspiel.  Diskussion über die Vor- und Nachteile von KI in der Bildung.                                     |
 
+\newpage
 
 ## Zielgruppe & Gruppengröße
 
@@ -69,6 +71,7 @@ Der Workshop hat das Ziel, den Teilnehmern Kenntnisse über Künstliche Intellig
 **Moderations-Stuff:**   | Klebezettel, Stifte, Flipchart etc., Mehrfarbige Zettel für Namensschilder (4 Farben)
 
 
+\newpage
 
 ## Vorbereitung
 - Workshops Materalien ausdrucken

@@ -16,8 +16,10 @@ done
 # copy all the pngs
 cp *.png .tmp/
 cp *.jpg .tmp/
+cp *.jpeg .tmp/
 cp */*.png .tmp/
 cp */*.jpg .tmp/
+cp */*.jpeg .tmp/
 
 # step into the temporal depths
 cd .tmp

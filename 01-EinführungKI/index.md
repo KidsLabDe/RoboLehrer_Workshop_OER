@@ -4,7 +4,7 @@ Draft: false
 Description: "Einführung in das Thema Künstliche Intelligenz (KI) und interaktive Umfrage.: Kurze Präsentation, Live-Umfrage, Kurzes Video - (Dauer: 30m)"
 Weight: 10
 ---
-[comment]: -Muss hier nicht das rein?| 30m    | Einführung in das Thema Künstliche Intelligenz (KI) und interaktive Umfrage.               |  Kurze Präsentation, Live-Umfrage, Kurzes Video
+
 
 # KI - was ist das überhaupt?
 
@@ -23,7 +23,11 @@ Durch die Farben werden die Teilnehmenden in 4 Gruppen eingeteilt. Das passiert 
 Im ersten Schritt wollen wir den aktuellen Stand der Schüler*innen zum Thema KI feststellen: Wer benutzt bereits KI, welche Chancen & Risiken sehen die Teilnehmenden, wird bereits KI an ihrer Schule eingesetzt oder thematisiert?
 
 Die Umfrage findet anonym mit einem Echtzeit-Umfrage-Tool statt. Mentimeter ist das bekannteste Tool, wir empfehlen ParticyFy oder WortWölkchen.
-[comment]: Links zu den Tools wären toll
+
+[Particify - Aktivieren Sie Ihr Publikum mit Umfragen, Quiz und Q&A](https://particify.de/)
+[Wortwölkchen.de (in Progress)](https://wortwoelkchen.de/)
+
+\newpage
 
 ## Was ist KI? - 15 Minuten
 
@@ -38,7 +42,7 @@ Dieses Video erklärt in 2 Minuten, was KI überhaupt ist:
 Das Video ist auch auf YouTube verfügbar, beim Anschauen über die Webseite des Ki-Campus wird es aber ohne YouTube-Werbung angezeigt.
 {{% /notice %}}
 
-
+\newpage
 
 ### Kurze Umfrage zum Thema KI
 
@@ -109,3 +113,5 @@ Wie sieht das eigentlich rechtlich aus, mit dem Einsatz von KI an der Schule?
 Die "[Handreichung Künstliche Intelligenz in Schule und Unterricht](https://digitale-schule.hessen.de/unterricht-und-paedagogik/handreichung-kuenstliche-intelligenz-ki-in-schule-und-unterricht)" der "Digitalen Schule Hessen" bietet eine sehr gute Übersicht!
 
 {{% /notice %}}
+
+\newpage

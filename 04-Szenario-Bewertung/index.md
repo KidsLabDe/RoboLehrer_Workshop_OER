@@ -8,13 +8,23 @@ Weight: 40
 
 # Szenario: KI-Bewertung von Hausaufgaben und Prüfungen
 
+
+
+![Szenario Lernassistenz](Szenario-Bewertung.jpeg)
+
+
 ## Einführung für die Teilnehmer\*innen
 
-In diesem Szenario werden automatisierte Bewertungssysteme, basierend auf Künstlicher Intelligenz (KI), in Schulen eingesetzt, um Hausaufgaben, Tests und Prüfungen zu bewerten. Diese Systeme nutzen fortschrittliche Algorithmen, um Schüler\*innenantworten zu analysieren und zu bewerten, wobei sie Kriterien wie Richtigkeit, Klarheit und sogar Kreativität berücksichtigen.
+In diesem Szenario benutzen Schulen KI (Künstliche Intelligenz) zum Bewerten von Hausaufgaben, Tests und Prüfungen. Die KI-Programme können Antworten schnell prüfen und bewerten.
 
-Die KI-Bewertungstools sind in das digitale Lernmanagementsystem der Schule integriert und bieten Lehrer\*innen und Schüler\*innen sofortiges Feedback zu den erbrachten Leistungen. Sie sind in der Lage, eine breite Palette von Aufgabentypen zu bewerten, von Multiple-Choice-Fragen bis hin zu ausführlichen schriftlichen Antworten.
+Das System ist mit dem digitalen Lernprogramm der Schule verbunden. Schüler bekommen sofort eine Bewertung, nachdem sie ihre Arbeit abgegeben haben. Die Bewertung zeigt Fehler und gibt Tipps zur Verbesserung.
 
-Das Hauptziel ist es, den Bewertungsprozess zu vereinfachen und Lehrkräften mehr Zeit für pädagogische Tätigkeiten zu geben. Gleichzeitig sollen Schüler\*innen von schnellem und objektivem Feedback profitieren, das ihre Lernprozesse unterstützt und ihnen hilft, sich kontinuierlich zu verbessern.
+Die KI bewertet alle Arbeiten gleich, egal wer sie geschrieben hat. Sie kann verschiedene Aufgabentypen bewerten, von einfachen Fragen bis zu längeren Texten.
 
+
+Ziele des Systems sind:
+
+- Lehrer zu entlasten, damit sie mehr Zeit zum Unterrichten haben
+- Schülern schnelles und faires Feedback zu geben, um besser zu lernen
 
 \newpage
