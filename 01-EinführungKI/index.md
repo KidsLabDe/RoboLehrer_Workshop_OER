@@ -39,7 +39,7 @@ Die Umfrage findet anonym mit einem Echtzeit-Umfrage-Tool statt. Mentimeter ist 
 Dieses Video erklärt in 2 Minuten, was KI überhaupt ist:
 [Video: Was ist KI?](https://ki-campus.org/videos/wasistki)
 
-Das Video ist auch auf YouTube verfügbar, beim Anschauen über die Webseite des Ki-Campus wird es aber ohne YouTube-Werbung angezeigt.
+Das Video ist auch auf YouTube verfügbar, beim Anschauen über die Webseite des KI-Campus wird es aber ohne YouTube-Werbung angezeigt.
 {{% /notice %}}
 
 \newpage
