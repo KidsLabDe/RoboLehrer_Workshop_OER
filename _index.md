@@ -32,10 +32,10 @@ pandoc-latex-environment:
 
 
 
-# Robo-Lehrer an die Macht?
+# Robo-Lehrer*innen an die Macht?
 ## Ein Rollenspiel-Abenteuer über KIs und den Einsatz an Deiner Schule
 
-Der Workshop hat das Ziel, den Teilnehmern Kenntnisse über Künstliche Intelligenz (KI) zu vermitteln und einen offenen Umgang mit KI in der Schule zu fördern. Da KI oft noch ein Tabuthema ist, sollen die Teilnehmer in Gruppen aufgeteilt werden, um verschiedene Perspektiven (Schüler, Lehrer, Eltern, Schulleitung) einzunehmen und durch ein Rollenspiel das Thema zu erkunden.
+Der Workshop hat das Ziel, den Teilnehmer*innen Kenntnisse über Künstliche Intelligenz (KI) zu vermitteln und einen offenen Umgang mit KI in der Schule zu fördern. Da KI oft noch ein Tabuthema ist, sollen die Teilnehmer\*innen in Gruppen aufgeteilt werden, um verschiedene Perspektiven (Schüler\*innen, Lehrer\*innen, Eltern, Schulleitung) einzunehmen und durch ein Rollenspiel das Thema zu erkunden.
 
 \newpage
 ## Übersicht des Workshops
@@ -43,11 +43,11 @@ Der Workshop hat das Ziel, den Teilnehmern Kenntnisse über Künstliche Intellig
 
 | Dauer | Schritt                                                                                           |
 |-------|--------------------------------------------------------------------------------------------------|
-| 30m    | Einführung in das Thema Künstliche Intelligenz (KI) und interaktive Umfrage .               |
-| 15m   | Einführung in das Rollenspiel: Auswahl des Szenarios, Gruppenaufteilung, jede Gruppe vertritt eine andere Perspektive vertritt (Schüler, Lehrer, Eltern, Schulleitung).
+| 30m    | Einführung in das Thema Künstliche Intelligenz (KI) und interaktive Umfrage.               |
+| 15m   | Einführung in das Rollenspiel: Auswahl des Szenarios, Gruppenaufteilung, jede Gruppe vertritt eine andere Perspektive (Schüler\*innen, Lehrer\*innen, Eltern, Schulleitung).
 | 30m  | Durchführung des Rollenspiels.
-| 15m  | Diskussion in der Rollen: jede Gruppe vertritt in einem Interview die jeweiligen Standpunkte. (FishBowl-Methode)
-| 15m | Nachbesprechung und Reflexion über das Erlebte im Rollenspiel.  Diskussion über die Vor- und Nachteile von KI in der Bildung.                                     |
+| 15m  | Diskussion in den Rollen: jede Gruppe vertritt in einem Interview die jeweiligen Standpunkte. (FishBowl-Methode)
+| 15m | Nachbesprechung und Reflexion über das Erlebte im Rollenspiel. Diskussion über die Vor- und Nachteile von KI in der Bildung.                                     |
 
 \newpage
 
@@ -58,24 +58,24 @@ Der Workshop hat das Ziel, den Teilnehmern Kenntnisse über Künstliche Intellig
 |||
 -|-
 **Personenzahl:**   | Mindestens 10, maximal 30 Teilnehmer\*innen + 1-2 Mentor\*innen
-**Zielgruppe:**   | Schüler:innen ab der 5. Klasse, unabhängig von der Schulform
+**Zielgruppe:**   | Schüler\*innen ab der 5. Klasse, unabhängig von der Schulform
 
 ## Was brauche ich dafür?
 |Was |Details|
 -|-
 **Software:**       | keine
 **Geräte Mentor:**         | Laptop & Beamer für Präsentation, auch ohne möglich
-**Geräte Teilnehmer:**         | Tablet o.ä. mit Zugang zu ChatGPT (optional) - ein Tablet für 2-4 Teilnhemer
+**Geräte Teilnehmer:**         | Tablet o.ä. mit Zugang zu ChatGPT (optional) - ein Tablet für 2-4 Teilnehmer\*innen
 **Internet:**       | ChatGPT benötigt Internet
 **Accounts:**   | Zugriff auch ohne Account möglich, Account wird aber empfohlen
-**Moderations-Stuff:**   | Klebezettel, Stifte, Flipchart etc., Mehrfarbige Zettel für Namensschilder (4 Farben)
+**Moderations-Stuff:**   | Klebezettel, Stifte, Flipchart etc., mehrfarbige Zettel für Namensschilder (4 Farben)
 
 
 \newpage
 
 ## Vorbereitung
-- Workshops Materalien ausdrucken
-- Tablets mit Zugang für ChatGPT vorbereiten.
+- Workshop-Materialien ausdrucken
+- Tablets mit Zugang für ChatGPT vorbereiten
 
 
 ## Online-Version mit Links zu weiteren zugehörigen Dokumenten
