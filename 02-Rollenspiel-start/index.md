@@ -39,7 +39,7 @@ In diesem Szenario wird KI im Geschichtsunterricht eingesetzt, um historische Pe
 
 ## Auswahl des Szenarios
 
-Alle 4 Szenarien werden kurz vergestellt. Die Schüler\*innen können abstimmen, welches Szenario sie gerne durchspielen wollen.
+Alle 4 Szenarien werden kurz vorgestellt. Die Schüler\*innen können abstimmen, welches Szenario sie gerne durchspielen wollen.
 
 ### Vorstellung des Szenarios & Gruppenzuteilung
 
@@ -77,8 +77,8 @@ Diskutiert folgende Fragen und schreibt positive und negative Aspekte auf versch
 
 Fällt eine Entscheidung: Ist die KI eine Chance oder ein Risiko?
 
-  1. Action Plan: was muss passieren, dass das positiv (chance) oder negativ (risiko) wird? <!--Hier versteh ich nicht, ob die Gruppen beide Optionen diskutieren sollen oder die jeweils gegegnsätzliche zu ihrer Bewertung?-->
-  2. Welchen Beitrag kann ich (meine Rolle) leisten, damit das passiert bzw. verhindert wird? <!--s.o. Hier möchtest du darauf hinaus, was die Rolle tun kann, damit die KI Chancen verspricht und keine Risiken, oder?-->
+  1. Action Plan: was muss passieren, dass das positiv (Chance) oder negativ (Risiko) wird? 
+  2. Welchen Beitrag kann ich (meine Rolle) leisten, damit die Chance passiert bzw. das Risiko verhindert wird? 
 
 ### Interview mit jeweils einer\*m Teilnehmer\*in aus dem Rollen-Team (15 Minuten)
 
