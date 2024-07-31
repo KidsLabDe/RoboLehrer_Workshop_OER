@@ -21,13 +21,13 @@ Die Schule nutzt diese Technologie, um ein sicheres und produktives Lernumfeld z
 
 ## Zusammenfassung
 
-In dieser Situation gibt es eine moderne Schule mit viel Technik. Die Schule nutzt KI (Künstliche Intelligenz), um auf die Schüler aufzupassen und deren Verhalten zu beobachten.
+In dieser Situation gibt es eine moderne Schule mit viel Technik. Die Schule nutzt KI (Künstliche Intelligenz), um auf die Schüler\*innen aufzupassen und deren Verhalten zu beobachten.
 So funktioniert es:
 
 - Überall in der Schule gibt es Kameras und Sensoren.
 - Die KI schaut sich alles an und meldet Probleme.
 - In den Klassenräumen gibt es Bildschirme, die beim Lernen helfen.
-- Die KI achtet darauf, ob Schüler mitmachen und aufpassen.
+- Die KI achtet darauf, ob Schüler\*innen mitmachen und aufpassen.
 
 Ziele der Schule:
 
@@ -35,7 +35,7 @@ Ziele der Schule:
 - Störungen verhindern
 - Probleme wie Mobbing früh erkennen
 
-Die Schule möchte so das Lernen verbessern. Aber es ist wichtig zu wissen, dass die Schüler dabei die ganze Zeit beobachtet werden.
+Die Schule möchte so das Lernen verbessern. Aber es ist wichtig zu wissen, dass die Schüler\*innen dabei die ganze Zeit beobachtet werden.
 
 
 \newpage
