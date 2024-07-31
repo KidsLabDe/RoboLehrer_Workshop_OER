@@ -19,39 +19,38 @@ Ein\*e Moderator\*in (workshopleitende Person) interviewt die Sprecher\*innen de
 
 ### Das Interview durchführen
 
-Ein Workshopleiter ist wie ein Moderator in einer Talk-Runde:
+Eine workshopleitende Person ist wie ein*e Moderator\*in in einer Talk-Runde:
 
-- Er stellt zuerst noch einmal kurz das Szenario vor.
-- Er stellt die einzelnen Gäste einzeln vor, mit ihren echten Namen und ihrer Rolle.
+- Sie stellt zuerst noch einmal kurz das Szenario vor.
+- Sie stellt die einzelnen Gäste einzeln vor, mit ihren echten Namen und ihrer Rolle.
 
-Danach befragt er nacheinander alle Gäste:
+Danach befragt sie nacheinander alle Gäste:
 
 - Welche Vorteile hat das Szenario?
 - Welche Nachteile?
-- Wie könnte eine Einführung stattfinden
+- Wie könnte eine Einführung stattfinden?
 - Was ist wichtig, damit das Ganze funktioniert?
 - Wie beurteilst Du das Szenario insgesamt: positiv oder negativ?
 
-Hier noch ein paar spezifischere Fragen, beispielhaft am Szenario "Lernassistent", diese können aber auch für die anderen Szenarien angepasst und genutzt werden:
+Hier noch ein paar spezifischere Fragen, beispielhaft am Szenario "KI-Lernassistenz", diese können aber auch für die anderen Szenarien angepasst und genutzt werden:
 
 ### Für Schüler\*innen:
 1. **Erwartungen und Nutzen:**
-   - Welche Vorteile erwartest du dir von der Einführung der KI-Lernassistenten?
-   - Glaubst du, dass die KI-Lernassistenten dir helfen werden, bessere Noten zu erzielen? Warum oder warum nicht?
+   - Welche Vorteile erwartest du dir von der Einführung der KI-Lernassistenz?
+   - Glaubst du, dass die KI-Lernassistenz dir helfen wird, bessere Noten zu erzielen? Warum oder warum nicht?
 
 2. **Bedenken und Datenschutz:**
    - Hast du Bedenken, dass die KI zu viele Informationen über dich sammelt? Wenn ja, welche genau?
    - Wie wichtig ist dir der Schutz deiner persönlichen Daten im Zusammenhang mit der KI?
 
 3. **Motivation und Engagement:**
-   - Glaubst du, dass die KI-Lernassistenten deine Motivation und dein Engagement im Unterricht verbessern können? Warum oder warum nicht?
+   - Glaubst du, dass die KI-Lernassistenz deine Motivation und dein Engagement im Unterricht verbessern kann? Warum oder warum nicht?
 
 ### Für Lehrer\*innen:
 1. **Unterstützung und Herausforderungen:**
-   - In welchen Bereichen erhoffst du dir die größte Unterstützung durch die KI-Lernassistenten?
-   - Welche Herausforderungen erwartest du bei der Einführung der KI-Lernassistenten?
-   - Wird die Rolle des Lehrers / der Lehrerin  durch die Einführung geschwächt?
-
+   - In welchen Bereichen erhoffst du dir die größte Unterstützung durch die KI-Lernassistenz?
+   - Welche Herausforderungen erwartest du bei der Einführung der KI-Lernassistenz?
+   - Wird die Rolle der Lehrkräfte durch die Einführung geschwächt?
 
 2. **Veränderungen im Unterricht:**
    - Wie denkst du, wird sich dein Unterricht durch die Einführung der KI verändern?
@@ -63,7 +62,7 @@ Hier noch ein paar spezifischere Fragen, beispielhaft am Szenario "Lernassistent
 
 ### Für Eltern:
 1. **Sicherheit und Vertrauen:**
-   - Welche Vorteile erwartest du dir für dein Kind durch die Einführung der KI-Lernassistenten?
+   - Welche Vorteile erwartest du dir für dein Kind durch die Einführung der KI-Lernassistenz?
    - Welche Bedenken hast du bezüglich der Sicherheit und des Datenschutzes?
 
 2. **Unterstützung und Kontrolle:**
@@ -76,11 +75,11 @@ Hier noch ein paar spezifischere Fragen, beispielhaft am Szenario "Lernassistent
 
 ### Für Rektor\*innen:
 1. **Ziele und Erwartungen:**
-   - Welche Ziele verfolgst du mit der möglichen Einführung der KI-Lernassistenten?
+   - Welche Ziele verfolgst du mit der möglichen Einführung der KI-Lernassistenz?
    - Welche Vorteile erwartest du dir für die Schule insgesamt?
 
 2. **Herausforderungen und Lösungen:**
-   - Welche potenziellen Herausforderungen siehst du bei der Einführung der KI-Lernassistenten?
+   - Welche potenziellen Herausforderungen siehst du bei der Einführung der KI-Lernassistenz?
    - Welche Maßnahmen planst du, um diese Herausforderungen zu bewältigen?
 
 3. **Ethische Überlegungen und Datenschutz:**
@@ -90,7 +89,7 @@ Hier noch ein paar spezifischere Fragen, beispielhaft am Szenario "Lernassistent
 
 
    {{% notice success Kann man all diese Fragen mit A oder B beantworten? %}}
-   Fishbowl-Methode: Die Sprecher\*innen und die\*der Moderator\*in sitzen in einem inneren Stuhlkreis und diskutieren das Szenario. Die anderen Teilnehmer\*innen bilden einen äußeren Kreis und beobachten die Diskussion.)
+   Fishbowl-Methode: Die Sprecher\*innen und die\*der Moderator\*in sitzen in einem inneren Stuhlkreis und diskutieren das Szenario. Die anderen Teilnehmer\*innen bilden einen äußeren Kreis und beobachten die Diskussion.
    {{% /notice %}}
 
 
@@ -100,7 +99,7 @@ Hier noch ein paar spezifischere Fragen, beispielhaft am Szenario "Lernassistent
 ## Reflektion & Nachbesprechung (15 Minuten)
 
 
-Die Diskussion kann offen gestaltet werden. Hier ein paar exemplarische Fragen, die man mit besprechen kann:
+Die Diskussion kann offen gestaltet werden. Hier ein paar exemplarische Fragen, die ihr auch besprechen könnt:
 
 1. Welche neuen Perspektiven oder Erkenntnisse hast du durch das Rollenspiel gewonnen?
 2. Wie hat sich deine Meinung zu dem Thema KI in der Bildung durch das Rollenspiel verändert?
