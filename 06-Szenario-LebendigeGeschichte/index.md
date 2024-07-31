@@ -19,10 +19,10 @@ Stell dir vor, du lernst im Geschichtsunterricht gerade über das antike Ägypte
 
 ## Zusammenfassung KI-Zeitreise im Geschichtsunterricht
 
-In dieser Situation nutzt der Geschichtsunterricht eine neue KI-Technik. Sie lässt Schüler mit Menschen aus der Vergangenheit "sprechen".
+In dieser Situation nutzt der Geschichtsunterricht eine neue KI-Technik. Sie lässt Schüler\*innen mit Menschen aus der Vergangenheit "sprechen".
 So funktioniert es:
 
-- Schüler tauchen in eine virtuelle Welt ein.
+- Schüler\*innen tauchen in eine virtuelle Welt ein.
 - Dort treffen sie auf Menschen aus der Geschichte.
 - Sie können diesen Menschen Fragen stellen.
 - Sie lernen, wie das Leben früher war.
