@@ -30,7 +30,7 @@ Quelle: https://datasolut.com/was-ist-deep-learning/
 # ... und dann kam ChatGPT
 
 - Veröffentlichung September 2022
-- 1 Million Nutzer*innen in den ersten 5 Tagen - obwohl begrenzt <!--versteh ich nicht: was heißt 'obwohl begrenzt?-->
+- 1 Million Nutzer*innen in den ersten 5 Tagen
 - auch ohne Vorwissen sehr einfach zu bedienen
 - fühlt sich wie ein Chat mit einem Menschen an
 
