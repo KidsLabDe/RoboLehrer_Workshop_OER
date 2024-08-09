@@ -60,7 +60,6 @@ In deiner Freizeit spielst du Schach und gartelst gerne. Das hilft dir, Probleme
 - Wie planst du die Einführung der Technik?
 - Wie sorgst du dafür, dass die Technik für alle gut ist?
 
-Möchtest du, dass ich etwas genauer erkläre?
 \newpage
 
 
@@ -87,7 +86,7 @@ Möchtest du, dass ich etwas genauer erkläre?
 
 ## Action Plan
 
-Ideen und Schritte, die helfen, das Beste aus der Situation herauszuholen und Probleme zu vermeiden. Dabei geht es auch darum, was jeder tun kann, um gute Ergebnisse zu erreichen oder Schwierigkeiten zu verhindern.
+Ideen und Schritte, die helfen, das Beste aus der Situation herauszuholen und Probleme zu vermeiden. Dabei geht es auch darum, was jede Person tun kann, um gute Ergebnisse zu erreichen oder Schwierigkeiten zu verhindern.
 
 -
 -
