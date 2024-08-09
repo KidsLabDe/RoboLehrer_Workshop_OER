@@ -11,11 +11,11 @@ Weight: 60
 
 ---
 
-# Rollenkarte: Schüler
+# Rollenkarte: Schüler\*in
 
 - **Problemstellung**
   - Wie könnte diese neue Technologie deine Art zu lernen verändern? Siehst du mehr Vorteile oder Nachteile?
-  - Gibt es Bedenken bezüglich deiner Privatsphäre oder wie du mit anderen Schülern interagierst?
+  - Gibt es Bedenken bezüglich deiner Privatsphäre oder wie du mit anderen Schüler\*innen interagierst?
 
 - **Persönliche Betroffenheit**
   - Überlege, wie die Technologie dir beim Lernen helfen könnte. Was ist für dich am wichtigsten, um gut lernen zu können?
@@ -23,7 +23,7 @@ Weight: 60
 
 - **Hintergrund**
   - Denke darüber nach, was diese Technologie besonders macht. Warum wird sie in der Schule eingeführt?
-  - Wie könntest du mit Lehrern und Mitschülern zusammenarbeiten, um das Beste aus der Technologie herauszuholen?
+  - Wie könntest du mit Lehrer\*innen und Mitschüler\*innen zusammenarbeiten, um das Beste aus der Technologie herauszuholen?
 
 # Rollenkarte: Eltern
 
@@ -33,13 +33,13 @@ Weight: 60
 
 - **Persönliche Betroffenheit**
   - Überlege, wie du dein Kind unterstützen kannst, um sicherzustellen, dass es von der Technologie profitiert und nicht überwältigt wird.
-  - Wie könntest du mit Lehrern und der Schule kommunizieren, um die besten Ergebnisse für dein Kind zu erreichen?
+  - Wie könntest du mit Lehrer\*innen und der Schule kommunizieren, um die besten Ergebnisse für dein Kind zu erreichen?
 
 - **Hintergrund**
   - Denke darüber nach, wie diese Technologie das Lernen und die Entwicklung deines Kindes fördern kann. Welche Chancen siehst du?
   - Wie könntest du dich über die Technologie informieren und ein Teil der Diskussion über ihre Nutzung in der Schule sein?
 
-# Rollenkarte: Rektor
+# Rollenkarte: Rektor\*in
 
 - **Problemstellung**
   - Wie verändert die Einführung dieser Technologie die Schule insgesamt? Welche Herausforderungen könnten auf die Schule zukommen?
@@ -47,7 +47,7 @@ Weight: 60
 
 - **Persönliche Betroffenheit**
   - Überlege, wie du die Schule führen und sicherstellen kannst, dass die Technologie positiv zum Lernumfeld beiträgt.
-  - Wie könntest du Lehrer, Schüler und Eltern in den Prozess der Einführung und Nutzung der Technologie einbeziehen?
+  - Wie könntest du Lehrer\*innen, Schüler\*innen und Eltern in den Prozess der Einführung und Nutzung der Technologie einbeziehen?
 
 - **Hintergrund**
   - Denke darüber nach, welche Ziele du mit der Einführung der Technologie verfolgst. Wie passt sie zur Vision der Schule?
