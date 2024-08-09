@@ -83,7 +83,7 @@ In eurer Freizeit geht ihr gerne gemeinsam ins Kino oder trefft euch mit Freunde
 
 ## Action Plan
 
-Ideen und Schritte, die helfen, das Beste aus der Situation herauszuholen und Probleme zu vermeiden. Dabei geht es auch darum, was jeder tun kann, um gute Ergebnisse zu erreichen oder Schwierigkeiten zu verhindern.
+Ideen und Schritte, die helfen, das Beste aus der Situation herauszuholen und Probleme zu vermeiden. Dabei geht es auch darum, was jede Person tun kann, um gute Ergebnisse zu erreichen oder Schwierigkeiten zu verhindern.
 
 -
 -
