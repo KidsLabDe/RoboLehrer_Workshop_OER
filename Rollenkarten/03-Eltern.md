@@ -27,7 +27,7 @@ pandoc-latex-environment:
 
 Du bist Maren, 42 Jahre alt, und dein Mann ist Thomas, 45 Jahre alt. Ihr seid die Eltern von Sam. Maren arbeitet als Bürokauffrau, und Thomas ist Mechaniker in einer Autowerkstatt.
 Ihr seid beide mit Computern vertraut. Besonders Sams Begeisterung für neue Apps, Spiele und soziale Medien macht euch oft ratlos. Ihr versucht mitzuhalten, aber es fällt euch nicht immer leicht zu verstehen, was Sam da eigentlich den ganzen Tag am Handy macht.
-In eurer Freizeit geht ihr gerne gemeinsam ins Kino oder trefft euch mit Freunden zum Grillen. Ihr schätzt den persönlichen Kontakt und macht euch Sorgen, dass Sam zu viel Zeit online verbringt.
+In eurer Freizeit geht ihr gerne gemeinsam ins Kino oder trefft euch mit Freund\*innen zum Grillen. Ihr schätzt den persönlichen Kontakt und macht euch Sorgen, dass Sam zu viel Zeit online verbringt.
 
 \newpage
 
@@ -70,7 +70,7 @@ In eurer Freizeit geht ihr gerne gemeinsam ins Kino oder trefft euch mit Freunde
 
 ## Action Plan
 
-Ideen und Schritte, die helfen, das Beste aus der Situation herauszuholen und Probleme zu vermeiden. Dabei geht es auch darum, was jeder tun kann, um gute Ergebnisse zu erreichen oder Schwierigkeiten zu verhindern.
+Ideen und Schritte, die helfen, das Beste aus der Situation herauszuholen und Probleme zu vermeiden. Dabei geht es auch darum, was jede Person tun kann, um gute Ergebnisse zu erreichen oder Schwierigkeiten zu verhindern.
 
 -
 -
