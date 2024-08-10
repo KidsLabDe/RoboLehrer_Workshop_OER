@@ -57,13 +57,9 @@ pandoc 02-Schueler.md -o "../Rollenkarte_Schueler.pdf" --from markdown --templat
 pandoc 03-Eltern.md -o "../Rollenkarte_Eltern.pdf" --from markdown --template "../eisvogel.latex" --filter pandoc-latex-environment --listings
 pandoc 04-Rektor.md -o "../Rollenkarte_Rektor.pdf" --from markdown --template "../eisvogel.latex" --filter pandoc-latex-environment --listings
 
-pandoc 01-Lehrer-einfach.md -o "../Rollenkarte_Lehrer-einfach.pdf" --from markdown --template "../eisvogel.latex" --filter pandoc-latex-environment --listings
-pandoc 02-Schueler-einfach.md -o "../Rollenkarte_Schueler-einfach.pdf" --from markdown --template "../eisvogel.latex" --filter pandoc-latex-environment --listings
-pandoc 03-Eltern-einfach.md -o "../Rollenkarte_Eltern-einfach.pdf" --from markdown --template "../eisvogel.latex" --filter pandoc-latex-environment --listings
-pandoc 04-Rektor-einfach.md -o "../Rollenkarte_Rektor-einfach.pdf" --from markdown --template "../eisvogel.latex" --filter pandoc-latex-environment --listings
-
 
 # mission accomplished, leave .tmp/
+cd ..
 
 # get rid of .tmp/
 rm -r .tmp

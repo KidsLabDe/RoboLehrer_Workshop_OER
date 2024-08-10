@@ -19,29 +19,36 @@ pandoc-latex-environment:
 
 
 
-# Rollenkarte: Lehrer\*in
+# Rollenkarte: Lehrer
 
 ![](Lehrer_klein.png)
 
 ## Frau Frieda Funkelstein
 
-Du bist Frieda Funkelstein, eine 42-jährige Lehrerin mit einer Vorliebe für bunte Brillen und witzige Socken. Dein Klassenzimmer ist ein Sammelsurium aus kreativen Basteleien und motivierenden Sprüchen. Du liebst es, deinen Unterricht mit überraschenden Elementen aufzupeppen, sei es durch spontane Rollenspiele oder unerwartete Anschauungsbeispiele aus deinem prall gefüllten "Wunderbeutel". Obwohl du anfangs skeptisch gegenüber neuer Technologie warst, hast du dich zu einer echten "Digi-Diva" entwickelt, die ihre Schüler\*innen regelmäßig mit coolen Apps und interaktiven Lerntools verblüfft. Dein Motto lautet: "Lernen ist wie Zaubern - man muss nur den richtigen Trick kennen!"
+Du bist Frieda Funkelstein, eine 42-jährige Lehrerin mit einer Vorliebe für bunte Brillen und witzige Socken. Dein Klassenzimmer ist ein Sammelsurium aus kreativen Basteleien und motivierenden Sprüchen. Du liebst es, deinen Unterricht mit überraschenden Elementen aufzupeppen, sei es durch spontane Rollenspiele oder unerwartete Anschauungsbeispiele aus deinem prall gefüllten "Wunderbeutel". Obwohl du anfangs skeptisch gegenüber neuer Technologie warst, hast du dich zu einer echten "Digi-Diva" entwickelt, die ihre Schüler regelmäßig mit coolen Apps und interaktiven Lerntools verblüfft. Dein Motto lautet: "Lernen ist wie Zaubern - man muss nur den richtigen Trick kennen!"
 
 \newpage
 
 
+## Das Problem
 
-##  Problemstellung
-- Wie verändert die neue Technologie deine Art zu unterrichten? Könnte sie den Unterricht besser oder schwieriger machen?
-- Wie fühlst du dich dabei, wenn Technologie einige deiner Aufgaben übernimmt?
+- Wie ändert die neue Technik deinen Unterricht?
+- Macht sie den Unterricht besser oder schwerer?
+- Wie fühlst du dich, wenn die Technik einige deiner Aufgaben macht?
 
-## Persönliche Betroffenheit**
-- Überlege, wie diese Technologie dir helfen oder deine Arbeit als Lehrer\*in beeinflussen kann. Was sind deine größten Hoffnungen und Sorgen?
-- Wie könntest du die Technologie nutzen, um deinen Schüler\*innen besser zu helfen?
+## Was bedeutet das für dich?
 
-## Hintergrund
-- Denke darüber nach, was diese Technologie besonders macht. Warum wird sie in der Schule eingeführt?
-- Wie könntest du mit Lehrkräften und Mitschüler\*innen zusammenarbeiten, um das Beste aus der Technologie herauszuholen?
+- Wie kann dir die Technik bei der Arbeit helfen?
+- Wie verändert sie deine Arbeit als Lehrer?
+- Was hoffst du? Was macht dir Sorgen?
+- Wie kannst du mit der Technik deinen Schülern besser helfen?
+
+## Mehr Infos
+
+- Was ist an dieser Technik besonders?
+- Warum kommt sie in die Schule?
+- Wie kannst du mit anderen Lehrern und Schülern zusammenarbeiten?
+- Wie nutzt ihr die Technik am besten?
 
 
 \newpage
@@ -70,7 +77,7 @@ Du bist Frieda Funkelstein, eine 42-jährige Lehrerin mit einer Vorliebe für bu
 
 ## Action Plan
 
-Ideen und Schritte, die helfen, das Beste aus der Situation herauszuholen und Probleme zu vermeiden. Dabei geht es auch darum, was jede Person tun kann, um gute Ergebnisse zu erreichen oder Schwierigkeiten zu verhindern.
+Ideen und Schritte, die helfen, das Beste aus der Situation herauszuholen und Probleme zu vermeiden. Dabei geht es auch darum, was jeder tun kann, um gute Ergebnisse zu erreichen oder Schwierigkeiten zu verhindern.
 
 -
 -

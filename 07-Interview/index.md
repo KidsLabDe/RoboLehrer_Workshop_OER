@@ -19,7 +19,7 @@ Ein\*e Moderator\*in (workshopleitende Person) interviewt die Sprecher\*innen de
 
 ### Das Interview durchführen
 
-Eine workshopleitende Person ist wie ein*e Moderator\*in in einer Talk-Runde:
+Eine workshopleitende Person ist wie ein\*e Moderator\*in in einer Talk-Runde:
 
 - Sie stellt zuerst noch einmal kurz das Szenario vor.
 - Sie stellt die einzelnen Gäste einzeln vor, mit ihren echten Namen und ihrer Rolle.

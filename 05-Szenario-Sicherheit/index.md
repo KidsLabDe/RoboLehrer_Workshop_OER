@@ -11,7 +11,7 @@ Weight: 50
 ![Szenario Lernassistenz](Szenario-Sicherheit.jpeg)
 
 
-## Einführung für die Teilnehmer\*innen
+## Einführung für die Teilnehmer
 
 In einem modernen Schulgebäude, das mit der neuesten Technik ausgestattet ist, wird Künstliche Intelligenz (KI) genutzt, um für Sicherheit und Ordnung zu sorgen und das Verhalten der Schüler zu überwachen. Überall im Gebäude gibt es Kameras und Sensoren, die das Geschehen in Echtzeit beobachten und auswerten. Diese Systeme können bestimmte Verhaltensweisen erkennen und, wenn nötig, Alarm auslösen oder die Lehrer informieren.
 
