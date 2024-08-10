@@ -13,7 +13,7 @@ Weight: 40
 ![Szenario Lernassistenz](Szenario-Bewertung.jpeg)
 
 
-## Einführung für die Teilnehmer\*innen
+## Einführung für die Teilnehmer
 
 In diesem Szenario benutzen Schulen KI (Künstliche Intelligenz) zum Bewerten von Hausaufgaben, Tests und Prüfungen. Die KI-Programme können Antworten schnell prüfen und bewerten.
 

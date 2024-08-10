@@ -7,13 +7,13 @@ Weight: 30
 
 
 
-# Szenario: Persönliche Lernassistenz (Lernhelfer\*innen )
+# Szenario: Persönliche Lernassistenz (Lernhelfer)
 
 
 ![Szenario Lernassistenz](Szenario-Assistent.jpeg)
 
 
-## Einführung für die Teilnehmer\*innen
+## Einführung für die Teilnehmer
 
 
 In dieser Situation werden neue KI-Lernassistenten im Schulalltag eingesetzt. Diese digitalen Helfer sind dafür da, jedem Schüler und jeder Schülerin beim Lernen zu helfen. Sie nutzen moderne Technik, um herauszufinden, was jeder Einzelne braucht.

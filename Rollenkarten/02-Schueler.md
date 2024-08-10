@@ -19,29 +19,41 @@ pandoc-latex-environment:
 
 
 
-# Rollenkarte: Schüler\*in
+# Rollenkarte: Schüler
 
 ![](Schueler_klein.png)
 
 ## Sam Schlaukopf
 
-Du bist Sam Schlaukopf, 15 Jahre alt und in der 9. Klasse. Du hast kurze Haare und trägst am liebsten weite Pullover und Cargohosen. Deine Mitschüler\*innen schätzen dich für deinen Humor und deine Hilfsbereitschaft. In der Schule bist du neugierig und lernst gerne, aber du magst es auch, die Dinge zu hinterfragen. Technologie findest du spannend, besonders wenn es um Videospiele und soziale Medien geht. Du schwankst oft zwischen Begeisterung für neue Möglichkeiten und Sorgen um Datenschutz. In deiner Freizeit spielst du in einer Band und engagierst dich in der Schüler\*innenvertretung. Dein Lieblingsfach ist Kunst, weil du dort deine Kreativität ausleben kannst.
+Du bist Sam Schlaukopf, 15 Jahre alt und in der 9. Klasse. Du hast kurze Haare und trägst am liebsten weite Pullover und Cargohosen. Deine Mitschüler schätzen dich für deinen Humor und deine Hilfsbereitschaft. In der Schule bist du neugierig und lernst gerne, aber du magst es auch, die Dinge zu hinterfragen. Technologie findest du spannend, besonders wenn es um Videospiele und soziale Medien geht. Du schwankst oft zwischen Begeisterung für neue Möglichkeiten und Sorgen um Datenschutz. In deiner Freizeit spielst du in einer Band und engagierst dich in der Schülervertretung. Dein Lieblingsfach ist Kunst, weil du dort deine Kreativität ausleben kannst.
 
 \newpage
 
 
-## Problemstellung
-- Wie könnte diese neue Technologie deine Art zu lernen verändern? Siehst du mehr Vorteile oder Nachteile?
+## Das Problem
 
-- Gibt es Bedenken bezüglich deiner Privatsphäre oder wie du mit anderen Schüler\*innen interagierst?
+- Neue Technik verändert das Lernen. Wie?
+- Ist das gut oder schlecht für dich?
+- Macht dir die Technik Sorgen? Zum Beispiel:
+  - Um deine privaten Daten?
+  - Wie du mit anderen Schülern redest?
 
-## Persönliche Betroffenheit
-- Überlege, wie die Technologie dir beim Lernen helfen könnte. Was ist für dich am wichtigsten, um gut lernen zu können?
-- Wie könntest du die Technologie nutzen, um deine Ziele zu erreichen oder neue Dinge zu entdecken?
+## Was bedeutet das für dich?
 
-# Hintergrund
-- Denke darüber nach, was diese Technologie besonders macht. Warum wird sie in der Schule eingeführt?
-- Wie könntest du mit Lehrkräften und Mitschüler\*innen zusammenarbeiten, um das Beste aus der Technologie herauszuholen?
+- Wie kann dir die Technik beim Lernen helfen?
+- Was brauchst du, um gut zu lernen?
+- Wie kannst du mit der Technik:
+  - Gute Noten erreichen?
+  - Neue Sachen lernen?
+  - Mehr Spaß in der Schule haben?
+
+## Mehr Infos
+
+- Was ist an dieser Technik besonders?
+- Warum kommt sie in die Schule?
+- Wie kannst du mit Lehrern und anderen Schülern arbeiten?
+- Wie nutzt ihr die Technik am besten?
+
 
 \newpage
 
