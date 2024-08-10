@@ -25,7 +25,9 @@ Im ersten Schritt wollen wir den aktuellen Stand der Schüler\*innen zum Thema K
 Die Umfrage findet anonym mit einem Echtzeit-Umfrage-Tool statt. Mentimeter ist das bekannteste Tool, wir empfehlen ParticyFy oder WortWölkchen.
 
 [Particify - Aktivieren Sie Ihr Publikum mit Umfragen, Quiz und Q&A](https://particify.de/)
-[Wortwölkchen.de (in Progress)](https://wortwoelkchen.de/)
+
+
+[Wortwölkchen.de (work in Progress)](https://wortwoelkchen.de/)
 
 \newpage
 
