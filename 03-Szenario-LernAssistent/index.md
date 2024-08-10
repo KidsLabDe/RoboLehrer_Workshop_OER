@@ -16,29 +16,28 @@ Weight: 30
 ## Einführung für die Teilnehmer\*innen
 
 
+In dieser Situation werden neue KI-Lernassistenten im Schulalltag eingesetzt. Diese digitalen Helfer sind dafür da, jedem Schüler und jeder Schülerin beim Lernen zu helfen. Sie nutzen moderne Technik, um herauszufinden, was jeder Einzelne braucht.
 
-In diesem Szenario werden neuartige KI-Lernassistent\*innen in den Schulalltag integriert. Diese digitalen Helfer\*innen sind darauf ausgelegt, jeder\*m Schüler\*in eine maßgeschneiderte Lernerfahrung zu bieten. Sie sind Teil des digitalen Lernumfelds der Schule und nutzen fortschrittliche Technologie, um die individuellen Bedürfnisse der Lernenden zu erkennen und zu erfüllen.
+Die KI-Assistenten schauen genau, wie jeder Schüler und jede Schülerin lernt, was sie gut können und wo sie noch Hilfe brauchen. Sie geben dann passende Aufgaben, die genau auf den Schüler oder die Schülerin zugeschnitten sind. Das bedeutet, dass zwei Schüler im gleichen Fach unterschiedliche Aufgaben bekommen können, je nachdem, was für sie gerade wichtig ist.
 
-Die KI-Assistent\*innen analysieren kontinuierlich, wie jed\*r Schüler\*in lernt, welche Stärken sie haben und wo noch Verbesserungspotenzial besteht. Basierend auf diesen Erkenntnissen stellen sie personalisiertes Lernmaterial zusammen. Das kann bedeuten, dass zwei Schüler\*innen im gleichen Fach unterschiedliche Aufgaben bekommen, je nachdem, was sie gerade am meisten brauchen.
+Ein wichtiger Punkt ist, dass die KI den Lernfortschritt genau verfolgt. Wenn ein Schüler in einem Bereich Probleme hat, bietet die KI sofort Hilfe oder zusätzliche Erklärungen an. Sie merkt sich auch Erfolge, was motivieren kann.
 
-Ein wichtiger Aspekt dieser Technologie ist die Fähigkeit, den Lernfortschritt genau zu verfolgen. Die KI erkennt, wenn Schüler\*innen in einem bestimmten Bereich Schwierigkeiten haben und kann sofort zusätzliche Hilfe oder Erklärungen anbieten. Gleichzeitig werden Erfolge registriert, was zur Motivation beitragen kann.
+Außerdem helfen die KI-Assistenten dabei, den Lernplan zu organisieren. Sie erstellen Pläne, die auf die Ziele und den Zeitplan des Schülers abgestimmt sind. Sie erinnern auch an Aufgaben, Prüfungen oder Abgabetermine, damit die Schüler nichts vergessen.
 
-Neben der inhaltlichen Unterstützung helfen die KI-Assistent\*innen auch bei der Organisation des Lernens. Sie erstellen individuelle Lernpläne, die auf die Ziele und den Zeitplan des\*der Schüler\*in abgestimmt sind. Zudem erinnern sie an anstehende Aufgaben, Prüfungen oder Abgabetermine, was den Schüler\*innen hilft, den Überblick zu behalten.
-
-Diese KI-Lernassistent\*innen sollen die Lehrer\*innen nicht ersetzen, sondern sie in ihrer Arbeit unterstützen. Sie geben den Lehrer\*innen detaillierte Einblicke in den Lernprozess jeder\*s einzelnen Schüler\*in, was eine gezieltere und effektivere Betreuung ermöglicht.
+Diese KI-Lernassistenten sollen die Lehrer nicht ersetzen, sondern ihnen helfen. Sie geben den Lehrern genaue Informationen darüber, wie jeder Schüler lernt, damit die Lehrer besser helfen können.
 
 ## Zusammenfassung
 
-Was die KI-Lernhelfer\*innen können:
+Was die KI-Lernhelfer können:
 
 - Sie lernen, wie jede Person am besten lernt.
-- Sie geben einzelnen Schüler\*innen passende Aufgaben.
-- Sie merken, wenn Schüler\*innen Hilfe brauchen und erklären dann mehr.
-- Sie loben Schüler\*innen für gute Leistungen.
+- Sie geben einzelnen Schüler passende Aufgaben.
+- Sie merken, wenn Schüler Hilfe brauchen und erklären dann mehr.
+- Sie loben Schüler für gute Leistungen.
 - Sie helfen beim Planen des Lernens.
 - Sie erinnern an wichtige Termine.
 
-Die KI-Lernassistenz ersetzt keine Lehrer\*innen. Sie hilft den Lehrer\*innen, jede\*n Schüler*in besser zu verstehen und zu unterstützen.
+Die KI-Lernassistenz ersetzt keine Lehrkräfte. Sie hilft den Lehrkräften, jeden einzelnen Schüler besser zu verstehen und zu unterstützen.
 
 
 \newpage

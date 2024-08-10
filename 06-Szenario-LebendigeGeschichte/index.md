@@ -13,16 +13,14 @@ Weight: 60
 
 
 ## Einführung für die Teilnehmer*innen
-In diesem Szenario wird eine fortschrittliche KI-Technologie im Geschichtsunterricht eingesetzt, um ein immersives Lernerlebnis zu schaffen. Die KI ermöglicht es Schüler*innen virtuell mit historischen Figuren zu interagieren, von berühmten Persönlichkeiten bis hin zu gewöhnlichen Menschen aus verschiedenen Epochen. Die Schüler\*innen können direkt mit diesen historischen Figuren kommunizieren, Fragen stellen und Diskussionen über wichtige Ereignisse, das tägliche Leben oder kulturelle Aspekte der jeweiligen Epoche führen. Diese Methode zielt darauf ab, die Geschichte lebendig zu machen und ein tieferes Verständnis für historische Kontexte zu fördern.
-
-Stell dir vor, du lernst im Geschichtsunterricht gerade über das antike Ägypten. Dank fortschrittlicher KI-Technologie kannst du in eine virtuelle Welt eintauchen, die das Leben am Nil vor Tausenden von Jahren nachbildet. Du triffst dort auf eine digitale Version von Kleopatra. Du kannst ihr direkt Fragen stellen, wie zum Beispiel, wie es war, Ägypten zu regieren, oder wie der tägliche Ablauf am königlichen Hof aussah.
+In diesem Szenario wird eine fortschrittliche KI-Technologie im Geschichtsunterricht eingesetzt, um ein spannendes und realistisches Lernerlebnis zu bieten. Mit dieser KI können die Schüler virtuell mit historischen Figuren sprechen, egal ob es sich um berühmte Persönlichkeiten oder um normale Menschen aus verschiedenen Zeiten handelt. Die Schüler können diesen Figuren direkt Fragen stellen und sich über wichtige Ereignisse, das Alltagsleben oder die Kultur der jeweiligen Zeit unterhalten. Diese Methode soll dazu beitragen, dass die Geschichte lebendig wird und die Schüler ein besseres Verständnis für historische Zusammenhänge bekommen.
 
 ## Zusammenfassung KI-Zeitreise im Geschichtsunterricht
 
 In dieser Situation nutzt der Geschichtsunterricht eine neue KI-Technik. Sie lässt Schüler\*innen mit Menschen aus der Vergangenheit "sprechen".
 So funktioniert es:
 
-- Schüler\*innen tauchen in eine virtuelle Welt ein.
+- Schüler tauchen in eine virtuelle Welt ein.
 - Dort treffen sie auf Menschen aus der Geschichte.
 - Sie können diesen Menschen Fragen stellen.
 - Sie lernen, wie das Leben früher war.
