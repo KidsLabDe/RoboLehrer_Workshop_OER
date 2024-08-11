@@ -19,7 +19,7 @@ pandoc-latex-environment:
 
 
 
-# Rollenkarte: Lehrer
+# Rollenkarte: Lehrkräfte
 
 ![](Lehrer_klein.png)
 

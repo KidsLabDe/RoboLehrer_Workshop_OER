@@ -19,7 +19,7 @@ pandoc-latex-environment:
 
 
 
-# Rollenkarte: Schüler
+# Rollenkarte: Schüler\*innen
 
 ![](Schueler_klein.png)
 

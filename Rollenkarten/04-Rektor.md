@@ -19,7 +19,7 @@ pandoc-latex-environment:
 
 
 
-# Rollenkarte: Rektor
+# Rollenkarte: Rektor\*innen
 
 ![](Rektor_klein.png)
 
