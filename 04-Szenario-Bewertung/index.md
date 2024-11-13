@@ -14,7 +14,7 @@ Weight: 40
 
 {{% notice note KI-generierte Bilder %}} Alle Bilder in diesem Rollenspiel wurden mit DALL E hergestellt. {{% /notice %}}
 
-## Einführung für die Teilnehmer\*innen
+## Einführung für die Teilnehmenden
 
 In diesem Szenario benutzen Schulen Künstliche Intelligenz (KI) zum Bewerten von Hausaufgaben, Tests und Prüfungen. Die KI-Programme können Antworten schnell prüfen und bewerten.
 
