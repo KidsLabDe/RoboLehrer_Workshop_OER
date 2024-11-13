@@ -26,7 +26,7 @@ Ein wichtiger Punkt ist, dass die KI den Lernfortschritt genau verfolgt. Wenn ei
 
 Außerdem helfen die KI-Assistenzen dabei, den Lernplan zu organisieren. Sie erstellen Pläne, die auf die Ziele und den Zeitplan der jeweiligen Schüler\*in abgestimmt sind. Sie erinnern auch an Aufgaben, Prüfungen oder Abgabetermine, damit die Schüler\*innen nichts vergessen.
 
-Diese KI-Lernassistenzen sollen Lehrkräfte nicht ersetzen, sondern ihnen helfen. Sie geben den Lehrer\*innen genaue Informationen darüber, wie jede*r Schüler\*in lernt, damit die Lehrer besser helfen können.
+Diese KI-Lernassistenzen sollen Lehrkräfte nicht ersetzen, sondern ihnen helfen. Sie geben den Lehrer\*innen genaue Informationen darüber, wie jede*r Schüler\*in lernt, damit die Lehrer\*innen besser helfen können.
 
 ## Zusammenfassung
 
