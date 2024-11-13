@@ -25,7 +25,7 @@ In diesem Szenario verfügt jede\*r Schüler\*in über eine KI-basierte Lernassi
 
 ### Automatisierte Bewertungssysteme
 
-Hier können die Schüler\*innen ein System besprechen, das Hausaufgaben und Prüfungen automatisch bewertet. Sie können die Fairness, Genauigkeit und mögliche Vorurteile dieser Systeme hinterfragen und darüber diskutieren, wie sie die Rolle der Lehrer\*innen und die Lernerfahrung der Schüler\*innen beeinflussen können.
+Hier können die Schüler\*innen ein System besprechen, das Hausaufgaben und Prüfungen automatisch bewertet. Sie können die Fairness, Genauigkeit und möglichen Vorurteile dieser Systeme hinterfragen und darüber diskutieren, wie sie die Rolle der Lehrer\*innen und die Lernerfahrung der Schüler\*innen beeinflussen können.
 
 ### Überwachung & Verhaltensmanagement
 
@@ -34,7 +34,7 @@ In diesem Szenario werden KI-Systeme zur Überwachung des Schüler\*innenverhalt
 
 ### Lebendiger Geschichtsunterricht
 
-In diesem Szenario wird KI im Geschichtsunterricht eingesetzt, um historische Persönlichkeiten und gewöhnliche Menschen aus verschiedenen Epochen zum Leben zu erwecken. Einerseits können fortschrittliche KI-Technologien, wie holographische Projektionen und Spracherkennung, virtuelle Charaktere erschaffen, die realistische und interaktive Lernerfahrungen ermöglichen, andererseits stellt sich die Frage woher die Daten kommen und welche Wahrheit die virtuellen Charaktere erzählen.
+In diesem Szenario wird KI im Geschichtsunterricht eingesetzt, um historische Persönlichkeiten und gewöhnliche Menschen aus verschiedenen Epochen zum Leben zu erwecken. Einerseits können fortschrittliche KI-Technologien, wie holographische Projektionen und Spracherkennung, virtuelle Charaktere erschaffen, die realistische und interaktive Lernerfahrungen ermöglichen, andererseits stellt sich die Frage, woher die Daten kommen und welche Wahrheit die virtuellen Charaktere erzählen.
 
 
 ## Auswahl des Szenarios
@@ -68,7 +68,7 @@ Diskutiert folgende Fragen und schreibt positive und negative Aspekte auf versch
   1. Weches Problem wird durch die KI gelöst?
   2. Warum geht mich (Lehrer\*in / Schüler\*in / Eltern / Schulleitung) das was an?
   3. Positiv: Was wären, aus meiner Perspektive, die Chancen?
-  4. Negativ: Was wäre, aus meiner Perspektive, Risiken?
+  4. Negativ: Was wären, aus meiner Perspektive, Risiken?
 
   Positiv - Grüne PostIts oder Zettel
 
@@ -77,7 +77,7 @@ Diskutiert folgende Fragen und schreibt positive und negative Aspekte auf versch
 
 Fällt eine Entscheidung: Ist die KI eine Chance oder ein Risiko?
 
-  1. Action Plan: was muss passieren, dass das positiv (Chance) oder negativ (Risiko) wird? 
+  1. Action Plan: was muss passieren, dass der KI-Einsatz positiv (Chance) oder negativ (Risiko) wird? 
   2. Welchen Beitrag kann ich (meine Rolle) leisten, damit die Chance passiert bzw. das Risiko verhindert wird? 
 
 ### Interview mit jeweils einer\*m Teilnehmer\*in aus dem Rollen-Team (15 Minuten)
