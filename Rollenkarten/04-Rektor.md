@@ -23,9 +23,9 @@ pandoc-latex-environment:
 
 ![](Rektor_klein.png)
 
-## Dr. Egino Patronas
+## Herr Egino Patronas
 
-Du bist Dr. Egino Patronas, 55 Jahre alt und seit 7 Jahren Rektor. Du trägst meistens einen blauen Anzug, der dir Seriosität verleiht, aber auch eine bunte Krawatte, die deine aufgeschlossene Art zeigt.
+Du bist Egino Patronas, 55 Jahre alt und seit 7 Jahren Rektor. Du trägst meistens einen blauen Anzug, weil du denkst, dass er dir Seriosität verleiht, aber auch eine bunte Krawatte, um aufgeschlossen zu wirken.
 
 Als ehemaliger Deutsch- und Geschichtslehrer schätzt du Tradition, bist aber auch offen für Neues. Du siehst die Vorteile von Technologie, bist aber vorsichtig bei deren Einführung.
 
