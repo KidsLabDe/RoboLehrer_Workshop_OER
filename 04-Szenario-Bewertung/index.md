@@ -25,7 +25,7 @@ Die KI bewertet alle Arbeiten gleich, egal wer sie geschrieben hat. Sie kann ver
 
 Ziele des Systems sind:
 
-- Lehrkräfte zu entlasten, damit sie mehr Zeit zum Unterrichten haben
-- Schüler\*innen schnelles und faires Feedback zu geben, um besser zu lernen
+- Lehrkräfte zu entlasten, damit sie mehr Zeit zum Unterrichten haben.
+- Schüler\*innen schnelles und faires Feedback zu geben, um besser zu lernen.
 
 \newpage
