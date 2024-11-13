@@ -20,7 +20,7 @@ Weight: 30
 
 In diesem Szenario werden neue KI-Lernassistenzen im Schulalltag eingesetzt. Diese digitalen Helfer sind dafür da, jedem Schüler und jeder Schülerin beim Lernen zu helfen. Die moderne Technik soll herausfinden, was jede Einzelne braucht.
 
-Die KI-Assistenzen schauen genau, wie jeder Schüler und jede Schülerin lernt, was sie gut können und wo sie noch Hilfe brauchen. Sie geben dann passende Aufgaben, die genau auf die Person zugeschnitten sind. Das bedeutet, dass zwei Schüler\*innen im gleichen Fach unterschiedliche Aufgaben bekommen können, je nachdem, was für sie gerade wichtig ist.
+Die KI-Assistenzen schauen genau, wie jede Person lernt, was sie gut können und wo sie noch Hilfe brauchen. Sie geben dann passende Aufgaben, die genau auf die Person zugeschnitten sind. Das bedeutet, dass zwei Schüler\*innen im gleichen Fach unterschiedliche Aufgaben bekommen können, je nachdem, was für sie gerade wichtig ist.
 
 Ein wichtiger Punkt ist, dass die KI den Lernfortschritt genau verfolgt. Wenn eine Person in einem Bereich Probleme hat, bietet die KI sofort Hilfe oder zusätzliche Erklärungen an. Sie merkt sich auch Erfolge, was motivieren kann.
 
