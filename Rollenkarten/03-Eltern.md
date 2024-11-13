@@ -25,27 +25,27 @@ pandoc-latex-environment:
 
 # Maren und Thomas (die Eltern)
 
-Du bist Maren, 42 Jahre alt, und dein Mann ist Thomas, 45 Jahre alt. Ihr seid die Eltern von Sam. Maren arbeitet als Bürokauffrau, und Thomas ist Mechaniker in einer Autowerkstatt.
+Du bist Maren, 42 Jahre alt, und dein Mann ist Thomas, 45 Jahre alt. Ihr seid die Eltern von Sam. Maren arbeitet als Mechanikerin in einer Autowerkstatt und Thomas ist Pfleger in einem Altenheim.
 Ihr seid beide mit Computern vertraut. Besonders Sams Begeisterung für neue Apps, Spiele und soziale Medien macht euch oft ratlos. Ihr versucht mitzuhalten, aber es fällt euch nicht immer leicht zu verstehen, was Sam da eigentlich den ganzen Tag am Handy macht.
-In eurer Freizeit geht ihr gerne gemeinsam ins Kino oder trefft euch mit Freunden zum Grillen. Ihr schätzt den persönlichen Kontakt und macht euch Sorgen, dass Sam zu viel Zeit online verbringt.
+In eurer Freizeit geht ihr gerne gemeinsam ins Kino oder trefft euch mit Freund\*innen zum Grillen. Ihr schätzt persönlichen Kontakt und macht euch Sorgen, dass Sam zu viel Zeit online verbringt.
 
 \newpage
 
 ## Das Problem
 
-- Wie verändert die neue Technik das Lernen deines Kindes?
+- Wie verändert die Künstliche Intelligenz das Lernen deines Kindes?
 - Wie verändert sie den Alltag deines Kindes?
 - Machst du dir Sorgen um:
-  - Die Daten deines Kindes?
-  - Die Zeit, die dein Kind mit Technik verbringt?
+  - die Daten deines Kindes?
+  - die Zeit, die dein Kind mit Technik verbringt?
 
 ## Was bedeutet das für dich?
 
-- Verstehst du die Technik?
+- Verstehst du die KI?
 - Wie kannst du deinem Kind helfen:
   - Die Technik gut zu nutzen?
   - Nicht von der Technik überfordert zu sein?
-- Wie kannst du mit Lehrern und der Schule reden?
+- Wie kannst du mit Lehrer\*innenn und der Schule reden?
 - Wie könnt ihr zusammen das Beste für dein Kind erreichen?
 
 ## Mehr Infos
