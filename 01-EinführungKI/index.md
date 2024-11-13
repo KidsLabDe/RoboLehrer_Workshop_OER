@@ -83,7 +83,7 @@ A: Ja, ich habe es bereits für die Schule o.ä. genutzt.
 
 B: Nein, ich kann mir darunter wenig vorstellen.
 
-**Findest du Sprachassistenten wie beispielsweise Siri oder Alexa hilfreich?**
+**Findest du Sprachassistenzen wie beispielsweise Siri oder Alexa hilfreich?**
 
 A: Ja, es macht sogar echt Spaß mit ihnen zu reden.
 
