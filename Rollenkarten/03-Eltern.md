@@ -23,6 +23,8 @@ pandoc-latex-environment:
 
 ![](Eltern_klein.png)
 
+{{% notice note KI-generierte Bilder %}} Alle Bilder in diesem Rollenspiel wurden mit DALL E hergestellt. {{% /notice %}}
+
 # Maren und Thomas (die Eltern)
 
 Du bist Maren, 42 Jahre alt, und dein Mann ist Thomas, 45 Jahre alt. Ihr seid die Eltern von Sam. Maren arbeitet als Mechanikerin in einer Autowerkstatt und Thomas ist Pfleger in einem Altenheim.
@@ -43,8 +45,8 @@ In eurer Freizeit geht ihr gerne gemeinsam ins Kino oder trefft euch mit Freund\
 
 - Verstehst du die KI?
 - Wie kannst du deinem Kind helfen:
-  - Die Technik gut zu nutzen?
-  - Nicht von der Technik überfordert zu sein?
+  - die Technik gut zu nutzen?
+  - nicht von der Technik überfordert zu sein?
 - Wie kannst du mit Lehrer\*innenn und der Schule reden?
 - Wie könnt ihr zusammen das Beste für dein Kind erreichen?
 
