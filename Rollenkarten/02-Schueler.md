@@ -91,3 +91,9 @@ Ideen und Schritte, die helfen, das Beste aus der Situation herauszuholen und Pr
 -
 -
 -
+
+## Info: Was bedeutet das * Sternchen hier im Text?
+
+Den * nennt man Gender-Sternchen und wird Tschender-Sternchen gesprochen. Damit kommen alle Geschlechter in der Sprache vor: Männer/Jungs, Frauen/Mädchen und andere Menschen.
+
+Deshalb schreiben wir zum Beispiel: Schüler\*innen. Das Sternchen steht für alle Menschen, die sich nicht als Mädchen oder Junge verstehen. Im Wort Schüler\*innen gehören also alle Menschen dazu, egal wie sie sich bezeichnen oder fühlen.
