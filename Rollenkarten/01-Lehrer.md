@@ -23,6 +23,8 @@ pandoc-latex-environment:
 
 ![](Lehrer_klein.png)
 
+Create-a-humorous-pixel-art-style-image-of-a-teacher-standing-in-front-of-a-classroom-holding-a-book-in-one-hand-and-a-magic-wand-in-the-other-with.webp
+
 ## Frau Frieda Funkelstein
 
 Du bist Frieda Funkelstein, eine 42-jährige Lehrerin mit einer Vorliebe für bunte Brillen und witzige Socken. Dein Klassenzimmer ist ein Sammelsurium aus kreativen Basteleien und motivierenden Sprüchen. Du liebst es, deinen Unterricht mit überraschenden Elementen aufzupeppen, sei es durch spontane Rollenspiele oder unerwartete Anschauungsbeispiele aus deinem prall gefüllten "Wunderbeutel". Obwohl du anfangs skeptisch gegenüber neuer Technologie warst, hast du dich zu einer echten "Digi-Diva" entwickelt, die ihre Schüler regelmäßig mit coolen Apps und interaktiven Lerntools verblüfft. Dein Motto lautet: "Lernen ist wie Zaubern - man muss nur den richtigen Trick kennen!"
