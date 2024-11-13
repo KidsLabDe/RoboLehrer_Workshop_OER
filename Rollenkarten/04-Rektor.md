@@ -25,32 +25,25 @@ pandoc-latex-environment:
 
 ## Herr Egino Patronas
 
-Du bist Egino Patronas, 55 Jahre alt und seit 7 Jahren Rektor. Du trägst meistens einen blauen Anzug, weil du denkst, dass er dir Seriosität verleiht, aber auch eine bunte Krawatte, um aufgeschlossen zu wirken.
-
-Als ehemaliger Deutsch- und Geschichtslehrer schätzt du Tradition, bist aber auch offen für Neues. Du siehst die Vorteile von Technologie, bist aber vorsichtig bei deren Einführung.
-
-Du liebst deinen Beruf, besonders wenn du siehst, wie sich Schüler entwickeln. Manchmal fühlst du dich überfordert von den vielen Veränderungen im Bildungswesen.
-
-Deine Stärke ist es, verschiedene Meinungen anzuhören und dann klare Entscheidungen zu treffen. Du möchtest deine Schule modernisieren, aber nicht überstürzt.
-
-In deiner Freizeit spielst du Schach und gartelst gerne. Das hilft dir, Probleme zu durchdenken und Geduld zu üben.
+Du bist Egino Patronas, 55 Jahre alt und seit 7 Jahren Rektor. Du trägst meistens einen blauen Anzug, weil du denkst, dass er dir Seriosität verleiht, aber auch eine bunte Krawatte, um aufgeschlossen zu wirken. 
+Du liebst deinen Beruf, besonders wenn du siehst, wie sich Schüler\*innen entwickeln. Du bist offen für Neues, aber manchmal fühlst du dich überfordert von den vielen Veränderungen im Bildungswesen. Du siehst die Vorteile von Technologie, bist aber vorsichtig bei deren Einführung. Du möchtest deine Schule modernisieren, aber nicht überstürzt. Deine Stärke ist es, verschiedene Meinungen anzuhören und dann klare Entscheidungen zu treffen. In deiner Freizeit spielst du Schach und entspannst im Anzug am Strand.
 
 \newpage
 
 
 ## Das Problem
 
-- Wie ändert die neue Technik die ganze Schule?
+- Wie verändert die neue Technik die ganze Schule?
 - Welche Schwierigkeiten könnte es geben?
 - Wie fühlst du dich dabei, diese Technik einzuführen?
 
 ## Was bedeutet das für dich?
 
 - Wie kannst du die Schule gut leiten?
-- Wie sorgst du dafür, dass die Technik beim Lernen hilft?
+- Wie sorgst du dafür, dass die Künstliche Intelligenz beim Lernen hilft?
 - Wie kannst du alle mitmachen lassen:
-  - Lehrer
-  - Schüler
+  - Lehrkräfte
+  - Schüler\*innen
   - Eltern
 
 ## Mehr Infos
