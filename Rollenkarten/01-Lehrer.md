@@ -24,11 +24,10 @@ pandoc-latex-environment:
 ![](Lehrer_klein.png)
 
 {{% notice note KI-generierte Bilder %}} Alle Bilder in diesem Rollenspiel wurden mit DALL E hergestellt. Der Prompt für dieses Bild ist "Create a humorous pixel art style image of a teacher standing in front of a classroom holding a book in one hand and a magic wand in the other". Diskutiert gerne wieso die KI genau auf dieses Bild gekommen ist. {{% /notice %}}
-.webp
 
 ## Frau Frieda Funkelstein
 
-Du bist Frieda Funkelstein, eine 42-jährige Lehrerin mit einer Vorliebe für bunte Brillen und witzige Socken. Dein Klassenzimmer ist ein Sammelsurium aus kreativen Basteleien und motivierenden Sprüchen. Du liebst es, deinen Unterricht mit überraschenden Elementen aufzupeppen, sei es durch spontane Rollenspiele oder unerwartete Anschauungsbeispiele aus deinem prall gefüllten "Wunderbeutel". Obwohl du anfangs skeptisch gegenüber neuer Technologie warst, hast du dich zu einer echten "Digi-Diva" entwickelt, die ihre Schüler regelmäßig mit coolen Apps und interaktiven Lerntools verblüfft. Dein Motto lautet: "Lernen ist wie Zaubern - man muss nur den richtigen Trick kennen!"
+Du bist Frieda Funkelstein, eine 60-jährige Lehrerin mit einer Vorliebe für bunte Brillen und witzige Socken. Dein Klassenzimmer ist ein Sammelsurium aus kreativen Basteleien und motivierenden Sprüchen. Du liebst es, deinen Unterricht mit überraschenden Elementen aufzupeppen, sei es durch spontane Rollenspiele oder unerwartete Anschauungsbeispiele aus deinem prall gefüllten "Wunderbeutel". Obwohl du anfangs skeptisch gegenüber neuer Technologie warst, hast du dich zu einer echten "Digi-Diva" entwickelt, die ihre Schüler\*innen regelmäßig mit coolen Apps und interaktiven Lerntools verblüfft. Dein Motto lautet: "Lernen ist wie Zaubern - man muss nur den richtigen Trick kennen!"
 
 \newpage
 
@@ -37,20 +36,20 @@ Du bist Frieda Funkelstein, eine 42-jährige Lehrerin mit einer Vorliebe für bu
 
 - Wie ändert die neue Technik deinen Unterricht?
 - Macht sie den Unterricht besser oder schwerer?
-- Wie fühlst du dich, wenn die Technik einige deiner Aufgaben macht?
+- Wie fühlst du dich, wenn die Künstliche Intelligenz einige deiner Aufgaben macht?
 
 ## Was bedeutet das für dich?
 
 - Wie kann dir die Technik bei der Arbeit helfen?
-- Wie verändert sie deine Arbeit als Lehrer?
+- Wie verändert sie deine Arbeit als Lehrerin?
 - Was hoffst du? Was macht dir Sorgen?
-- Wie kannst du mit der Technik deinen Schülern besser helfen?
+- Wie kannst du mit der Technik deinen Schüler\*innen besser helfen?
 
 ## Mehr Infos
 
 - Was ist an dieser Technik besonders?
 - Warum kommt sie in die Schule?
-- Wie kannst du mit anderen Lehrern und Schülern zusammenarbeiten?
+- Wie kannst du mit anderen Lehrkräften und Schüler\*innen zusammenarbeiten?
 - Wie nutzt ihr die Technik am besten?
 
 
@@ -80,7 +79,7 @@ Du bist Frieda Funkelstein, eine 42-jährige Lehrerin mit einer Vorliebe für bu
 
 ## Action Plan
 
-Ideen und Schritte, die helfen, das Beste aus der Situation herauszuholen und Probleme zu vermeiden. Dabei geht es auch darum, was jeder tun kann, um gute Ergebnisse zu erreichen oder Schwierigkeiten zu verhindern.
+Ideen und Schritte, die helfen, das Beste aus der Situation herauszuholen und Probleme zu vermeiden. Dabei geht es auch darum, was jede Person tun kann, um gute Ergebnisse zu erreichen oder Schwierigkeiten zu verhindern.
 
 -
 -
