@@ -47,7 +47,7 @@ In eurer Freizeit geht ihr gerne gemeinsam ins Kino oder trefft euch mit Freund\
 - Wie kannst du deinem Kind helfen:
   - die Technik gut zu nutzen?
   - nicht von der Technik überfordert zu sein?
-- Wie kannst du mit Lehrer\*innenn und der Schule reden?
+- Wie kannst du mit Lehrer\*innen und der Schule reden?
 - Wie könnt ihr zusammen das Beste für dein Kind erreichen?
 
 ## Mehr Infos
@@ -93,3 +93,9 @@ Ideen und Schritte, die helfen, das Beste aus der Situation herauszuholen und Pr
 -
 -
 -
+
+## Info: Was bedeutet das * Sternchen hier im Text?
+
+Den * nennt man Gender-Sternchen und wird Tschender-Sternchen gesprochen. Damit kommen alle Geschlechter in der Sprache vor: Männer/Jungs, Frauen/Mädchen und andere Menschen.
+
+Deshalb schreiben wir zum Beispiel: Lehrer\*innen. Das Sternchen steht für alle Menschen, die sich nicht als Frau oder Mann verstehen. Im Wort Lehrer\*innen gehören also alle Menschen dazu, egal wie sie sich bezeichnen oder fühlen.
