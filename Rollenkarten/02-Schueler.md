@@ -23,7 +23,9 @@ pandoc-latex-environment:
 
 ![](Schueler_klein.png)
 
-{{% notice note KI-generierte Bilder %}} Alle Bilder in diesem Rollenspiel wurden mit DALL E hergestellt. Der Prompt für dieses Bild ist "Create a humorous pixel art style image of a student sitting at a desk surrounded by flying books and a digital tablet". Diskutiert gerne wieso die KI genau auf dieses Bild gekommen ist. {{% /notice %}}
+{{% notice note KI-generierte Bilder %}} 
+Alle Bilder in diesem Rollenspiel wurden mit DALL E hergestellt. Der Prompt für dieses Bild ist "Create a humorous pixel art style image of a student sitting at a desk surrounded by flying books and a digital tablet". Diskutiert gerne wieso die KI genau auf dieses Bild gekommen ist.
+{{% /notice %}}
 
 ## Sam Schlaukopf
 

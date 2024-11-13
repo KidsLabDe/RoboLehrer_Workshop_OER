@@ -23,7 +23,9 @@ pandoc-latex-environment:
 
 ![](Lehrer_klein.png)
 
-{{% notice note KI-generierte Bilder %}} Alle Bilder in diesem Rollenspiel wurden mit DALL E hergestellt. Der Prompt für dieses Bild ist "Create a humorous pixel art style image of a teacher standing in front of a classroom holding a book in one hand and a magic wand in the other". Diskutiert gerne wieso die KI genau auf dieses Bild gekommen ist. {{% /notice %}}
+{{% notice note KI-generierte Bilder %}} 
+Alle Bilder in diesem Rollenspiel wurden mit DALL E hergestellt. Der Prompt für dieses Bild ist "Create a humorous pixel art style image of a teacher standing in front of a classroom holding a book in one hand and a magic wand in the other". Diskutiert gerne wieso die KI genau auf dieses Bild gekommen ist. 
+{{% /notice %}}
 
 ## Frau Frieda Funkelstein
 

@@ -11,7 +11,9 @@ Weight: 60
 
 ![Szenario Lernassistenz](Szenario-Geschichte.jpeg)
 
-{{% notice note KI-generierte Bilder %}} Alle Bilder in diesem Rollenspiel wurden mit DALL E hergestellt. Diskutiert gerne welche Vorstellungen von Schule und Schüler\*innen die KI mit diesem Bild darstellt. {{% /notice %}}
+{{% notice note KI-generierte Bilder %}} 
+Alle Bilder in diesem Rollenspiel wurden mit DALL E hergestellt. Diskutiert gerne welche Vorstellungen von Schule und Schüler\*innen die KI mit diesem Bild darstellt. 
+{{% /notice %}}
 
 
 ## Einführung für die Teilnehmenden

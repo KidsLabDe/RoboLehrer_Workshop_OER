@@ -12,7 +12,9 @@ Weight: 30
 
 ![Szenario Lernassistenz](Szenario-Assistent.jpeg)
 
-{{% notice note KI-generierte Bilder %}} Alle Bilder in diesem Rollenspiel wurden mit DALL E hergestellt. Der Prompt für dieses Bild ist "An illustration showing multiple students each accompanied by their own small friendly robot in a school setting". Diskutiert gerne welche Vorstellungen - beispielsweise von Geschlecht und Hautfarbe - die KI mit diesem Bild darstellt.  {{% /notice %}}
+{{% notice note KI-generierte Bilder %}} 
+Alle Bilder in diesem Rollenspiel wurden mit DALL E hergestellt. Der Prompt für dieses Bild ist "An illustration showing multiple students each accompanied by their own small friendly robot in a school setting". Diskutiert gerne welche Vorstellungen - beispielsweise von Geschlecht und Hautfarbe - die KI mit diesem Bild darstellt.  
+{{% /notice %}}
 
 
 ## Einführung für die Teilnehmenden

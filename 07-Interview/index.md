@@ -88,7 +88,9 @@ Hier noch ein paar spezifischere Fragen, beispielhaft am Szenario "KI-Lernassist
 
 
 
-   {{% notice success Fishbowl-Methode %}} Die Sprecher\*innen und die\*der Moderator\*in sitzen in einem inneren Stuhlkreis und diskutieren das Szenario. Die anderen Teilnehmer\*innen bilden einen äußeren Kreis und beobachten die Diskussion. {{% /notice %}}
+   {{% notice success Fishbowl-Methode %}} 
+   Die Sprecher\*innen und die\*der Moderator\*in sitzen in einem inneren Stuhlkreis und diskutieren das Szenario. Die anderen Teilnehmer\*innen bilden einen äußeren Kreis und beobachten die Diskussion. 
+   {{% /notice %}}
 
 
 

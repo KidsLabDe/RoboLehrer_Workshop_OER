@@ -23,7 +23,9 @@ pandoc-latex-environment:
 
 ![](Eltern_klein.png)
 
-{{% notice note KI-generierte Bilder %}} Alle Bilder in diesem Rollenspiel wurden mit DALL E hergestellt. {{% /notice %}}
+{{% notice note KI-generierte Bilder %}} 
+Alle Bilder in diesem Rollenspiel wurden mit DALL E hergestellt. 
+{{% /notice %}}
 
 # Maren und Thomas (die Eltern)
 

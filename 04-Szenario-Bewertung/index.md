@@ -12,7 +12,9 @@ Weight: 40
 
 ![Szenario Lernassistenz](Szenario-Bewertung.jpeg)
 
-{{% notice note KI-generierte Bilder %}} Alle Bilder in diesem Rollenspiel wurden mit DALL E hergestellt. {{% /notice %}}
+{{% notice note KI-generierte Bilder %}}
+Alle Bilder in diesem Rollenspiel wurden mit DALL E hergestellt. 
+{{% /notice %}}
 
 ## Einführung für die Teilnehmenden
 

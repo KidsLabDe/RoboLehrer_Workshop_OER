@@ -11,7 +11,9 @@ Weight: 50
 ![Szenario Lernassistenz](Szenario-Sicherheit.jpeg)
 
 
-{{% notice note KI-generierte Bilder %}} Alle Bilder in diesem Rollenspiel wurden mit DALL E hergestellt. Der Prompt für dieses Bild ist "An illustration depicting a school where cameras monitor the entire premises ensuring the safety of students. Robots and screens are present throughout". Diskutiert gerne welche Vorstellungen - beispielsweise von Geschlecht und Hautfarbe - die KI mit diesem Bild darstellt. {{% /notice %}}
+{{% notice note KI-generierte Bilder %}} 
+Alle Bilder in diesem Rollenspiel wurden mit DALL E hergestellt. Der Prompt für dieses Bild ist "An illustration depicting a school where cameras monitor the entire premises ensuring the safety of students. Robots and screens are present throughout". Diskutiert gerne welche Vorstellungen - beispielsweise von Geschlecht und Hautfarbe - die KI mit diesem Bild darstellt. 
+{{% /notice %}}
 
 ## Einführung für die Teilnehmenden
 
