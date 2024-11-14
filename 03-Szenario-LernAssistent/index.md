@@ -7,7 +7,7 @@ Weight: 30
 
 
 
-# Szenario: Persönliche Lernassistenz (Lernhelfer)
+# Szenario: Persönliche Lernassistenz
 
 
 ![Szenario Lernassistenz](Szenario-Assistent.jpeg)
