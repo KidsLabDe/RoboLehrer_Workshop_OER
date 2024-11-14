@@ -22,7 +22,7 @@ In diesem Szenario wird eine fortschrittliche KI-Technologie im Geschichtsunterr
 Ein Beispiel:
 Du lernst über das alte Ägypten. Die KI bringt dich in eine virtuelle Welt am Nil. Dort triffst du Kleopatra. Du kannst sie fragen, wie es war, Königin zu sein oder wie ein Tag im Palast ablief. Ziel ist es, Geschichte spannend und lebendig zu machen.
 
-## Zusammenfassung KI-Zeitreise im Geschichtsunterricht
+## Zusammenfassung
 
 In diesem Szenario nutzt der Geschichtsunterricht eine neue KI-Technik. Sie lässt Schüler\*innen mit Menschen aus der Vergangenheit 'sprechen'.
 So funktioniert es:
