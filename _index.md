@@ -65,7 +65,7 @@ Der Workshop hat das Ziel, den Teilnehmer\*innen Kenntnisse über Künstliche In
 -|-
 **Software:**       | keine
 **Geräte Mentor:**         | Laptop & Beamer für Präsentation, auch ohne möglich
-**Geräte Teilnehmer:**         | Tablet o.ä. mit Zugang zu ChatGPT (optional) - ein Tablet für 2-4 Teilnehmer\*innen
+**Geräte Teilnehmer\*innen:**         | Tablet o.ä. mit Zugang zu ChatGPT (optional) - ein Tablet für 2-4 Teilnehmer\*innen
 **Internet:**       | ChatGPT benötigt Internet
 **Accounts:**   | Zugriff auch ohne Account möglich, Account wird aber empfohlen
 **Moderations-Stuff:**   | Klebezettel, Stifte, Flipchart etc., mehrfarbige Zettel für Namensschilder (4 Farben)
