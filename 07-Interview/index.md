@@ -8,7 +8,7 @@ Nachbesprechung und Reflexion über das Erlebte im Rollenspiel.  Diskussion übe
 Weight: 20
 ---
 
-# Das Interview
+# Das Interview (15 Minuten)
 
 ## Vorbereitung
 
@@ -34,7 +34,7 @@ Danach befragt sie nacheinander alle Gäste:
 
 Hier noch ein paar spezifischere Fragen, beispielhaft am Szenario "KI-Lernassistenz", diese können aber auch für die anderen Szenarien angepasst und genutzt werden:
 
-### Für Schüler\*innen:
+### Für Schüler\*innen
 1. **Erwartungen und Nutzen:**
    - Welche Vorteile erwartest du dir von der Einführung der KI-Lernassistenz?
    - Glaubst du, dass die KI-Lernassistenz dir helfen wird, bessere Noten zu erzielen? Warum oder warum nicht?
@@ -46,7 +46,7 @@ Hier noch ein paar spezifischere Fragen, beispielhaft am Szenario "KI-Lernassist
 3. **Motivation und Engagement:**
    - Glaubst du, dass die KI-Lernassistenz deine Motivation und dein Engagement im Unterricht verbessern kann? Warum oder warum nicht?
 
-### Für Lehrer\*innen:
+### Für Lehrer\*innen
 1. **Unterstützung und Herausforderungen:**
    - In welchen Bereichen erhoffst du dir die größte Unterstützung durch die KI-Lernassistenz?
    - Welche Herausforderungen erwartest du bei der Einführung der KI-Lernassistenz?
@@ -60,7 +60,7 @@ Hier noch ein paar spezifischere Fragen, beispielhaft am Szenario "KI-Lernassist
    - Wie gehst du mit möglichen Datenschutzbedenken deiner Schüler\*innen und ihrer Eltern um?
    - Welche Strategien hast du, um die Privatsphäre der Schüler\*innen zu schützen?
 
-### Für Eltern:
+### Für Eltern
 1. **Sicherheit und Vertrauen:**
    - Welche Vorteile erwartest du dir für dein Kind durch die Einführung der KI-Lernassistenz?
    - Welche Bedenken hast du bezüglich der Sicherheit und des Datenschutzes?
@@ -73,7 +73,7 @@ Hier noch ein paar spezifischere Fragen, beispielhaft am Szenario "KI-Lernassist
    - Wie sollte die Schule dich über die Einführung und Nutzung der KI informieren?
    - Wie möchtest du in den Entscheidungsprozess über die Einführung der KI einbezogen werden?
 
-### Für Rektor\*innen:
+### Für Rektor\*innen
 1. **Ziele und Erwartungen:**
    - Welche Ziele verfolgst du mit der möglichen Einführung der KI-Lernassistenz?
    - Welche Vorteile erwartest du dir für die Schule insgesamt?
@@ -96,7 +96,7 @@ Hier noch ein paar spezifischere Fragen, beispielhaft am Szenario "KI-Lernassist
 
 \newpage
 
-## Reflektion & Nachbesprechung (15 Minuten)
+# Reflektion & Nachbesprechung (15 Minuten)
 
 
 Die Diskussion kann offen gestaltet werden. Hier ein paar exemplarische Fragen, die ihr auch besprechen könnt:
