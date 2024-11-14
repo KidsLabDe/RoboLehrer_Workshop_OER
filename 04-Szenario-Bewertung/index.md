@@ -24,6 +24,7 @@ Das System ist mit dem digitalen Lernprogramm der Schule verbunden. Schüler\*in
 
 Die KI bewertet alle Arbeiten gleich, egal wer sie geschrieben hat. Sie kann verschiedene Aufgabentypen bewerten, von einfachen Fragen bis zu längeren Texten.
 
+## Zusammenfassung
 
 Ziele des Systems sind:
 
