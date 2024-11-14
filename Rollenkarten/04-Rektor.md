@@ -23,6 +23,8 @@ pandoc-latex-environment:
 
 ![](Rektor_klein.png)
 
+{{% notice note KI-generierte Bilder %}} Alle Bilder in diesem Rollenspiel wurden mit DALL E hergestellt. {{% /notice %}}
+
 ## Herr Egino Patronas
 
 Du bist Egino Patronas, 55 Jahre alt und seit 7 Jahren Rektor. Du trägst meistens einen blauen Anzug, weil du denkst, dass er dir Seriosität verleiht, aber auch eine bunte Krawatte, um aufgeschlossen zu wirken. 
