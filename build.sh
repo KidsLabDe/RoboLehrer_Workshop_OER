@@ -13,6 +13,11 @@ for f in ??-*/*.md; do
     cp $f .tmp/$(ls $f | sed "s/\//-/g")
 done
 
+
+mkdir .tmp/Rollenkarten
+cp Rollenkarten/* .tmp/Rollenkarten/
+
+
 # copy all the pngs
 cp *.png .tmp/
 cp *.jpg .tmp/
@@ -25,7 +30,7 @@ cp */*.jpeg .tmp/
 cd .tmp
 
 # replace special containers
-for f in *.md; do
+for f in $(find . -name "*.md"); do
     # echo "::::::file $f\n"
     ## {{%notice note überschrift hier%}} -> ::: note\n###überschrift
     ## note -> note
@@ -48,14 +53,17 @@ pandoc *.md -o "../RoboLehrer an die Macht.pdf" --from markdown --template "../e
 
 
 
-cd ..
+# cd ..
+
+mkdir Rollenkarten
+cp Rollenkarten/*.md .tmp/Rollenkarten/*.md
 
 cd Rollenkarten
 
-pandoc 01-Lehrer.md -o "../Rollenkarte_Lehrer.pdf" --from markdown --template "../eisvogel.latex" --filter pandoc-latex-environment --listings
-pandoc 02-Schueler.md -o "../Rollenkarte_Schueler.pdf" --from markdown --template "../eisvogel.latex" --filter pandoc-latex-environment --listings
-pandoc 03-Eltern.md -o "../Rollenkarte_Eltern.pdf" --from markdown --template "../eisvogel.latex" --filter pandoc-latex-environment --listings
-pandoc 04-Rektor.md -o "../Rollenkarte_Rektor.pdf" --from markdown --template "../eisvogel.latex" --filter pandoc-latex-environment --listings
+pandoc 01-Lehrer.md -o "../../Rollenkarte_Lehrer.pdf" --from markdown --template "../eisvogel.latex" --filter pandoc-latex-environment --listings
+pandoc 02-Schueler.md -o "../../Rollenkarte_Schueler.pdf" --from markdown --template "../eisvogel.latex" --filter pandoc-latex-environment --listings
+pandoc 03-Eltern.md -o "../../Rollenkarte_Eltern.pdf" --from markdown --template "../eisvogel.latex" --filter pandoc-latex-environment --listings
+pandoc 04-Rektor.md -o "../../Rollenkarte_Rektor.pdf" --from markdown --template "../eisvogel.latex" --filter pandoc-latex-environment --listings
 
 
 # mission accomplished, leave .tmp/
