@@ -1,5 +1,5 @@
 ---
-title: "Rollenkarte: Lehrer"
+title: "Rollenkarte: Lehrer*innen"
 subject: "Markdown"
 keywords: [Markdown, Example]
 lang: "de"
