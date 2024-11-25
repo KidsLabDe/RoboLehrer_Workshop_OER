@@ -1,5 +1,5 @@
 ---
-title: "Robo-Lehrer an die Macht?"
+title: "Robo-Lehrer*innen an die Macht?"
 titlepage: true
 titlepage-logo: "titelbild.png"
 logo-width: 100mm
