@@ -7,7 +7,7 @@ toc: true
 toc-title: "Übersicht"
 toc-own-page: true
 author: KidsLab.de gGmbH
-date: "Juli 2024"
+date: "November 2024"
 subject: "Markdown"
 keywords: [Markdown, Example]
 lang: "de"
