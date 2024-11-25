@@ -6,7 +6,7 @@ Weight: 10
 ---
 
 
-# KI - was ist das überhaupt?
+# KI - was ist das überhaupt? (30 Minuten)
 
 ## Willkommen!
 
@@ -65,7 +65,7 @@ A: Ich finde sie total süß und würde gerne einen halten.
 
 B: Nein, denn ich finde echte Haustiere definitiv besser.
 
-**Würdest du eine Operation an deinem Körper eher einer Künstlichen Intelligenz (KI) oder einer\*m menschlichen Arzt\*in anvertrauen?**
+**Würdest du eine Operation an deinem Körper eher einer Künstlichen Intelligenz (KI) oder menschlichen Ärzt\*innen anvertrauen?**
 
 A: Gut entwickelte Maschinen sind präziser als Menschen, also lieber eine KI.
 

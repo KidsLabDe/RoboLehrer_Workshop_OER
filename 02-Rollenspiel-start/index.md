@@ -8,9 +8,9 @@ Nachbesprechung und Reflexion über das Erlebte im Rollenspiel.  Diskussion übe
 Weight: 20
 ---
 
-# Lasst die Spiele beginnen: Das Rollenspiel!
+# Lasst die Spiele beginnen: Das Rollenspiel! (60 Minuten)
 
-## Vorbereitung Rollenspiel
+## Vorbereitung Rollenspiel - 15 Minuten
 
 ### Gruppeneinteilung
 
@@ -59,9 +59,9 @@ Jede Gruppe / Rolle erhält einen Zettel mit wichtigen Fragen.
 
 ## Rollenspiel
 
-### Diskussion in der Gruppe (30 Minuten)
+### Diskussion in der Gruppe - 30 Minuten
 
-Die Gruppen haben nun 20 Minuten Zeit das Szenario zu bewerten.
+Die Gruppen haben nun 30 Minuten Zeit das Szenario zu bewerten.
 
 Diskutiert folgende Fragen und schreibt positive und negative Aspekte auf verschiedenfarbige (grüne/rote) Zettel:
 
@@ -80,16 +80,12 @@ Fällt eine Entscheidung: Ist die KI eine Chance oder ein Risiko?
   1. Action Plan: was muss passieren, dass der KI-Einsatz positiv (Chance) oder negativ (Risiko) wird? 
   2. Welchen Beitrag kann ich (meine Rolle) leisten, damit die Chance passiert bzw. das Risiko verhindert wird? 
 
-### Interview mit jeweils einer\*m Teilnehmer\*in aus dem Rollen-Team (15 Minuten)
+### Interview mit jeweils einer\*m Teilnehmer\*in aus dem Rollen-Team - 15 Minuten
 
 Wählt eine\*n Sprecher\*in für eure Gruppe, diese wird zu einer fiktiven Diskussionsrunde eines Podcasts eingeladen.
 Ein\*e Moderator\*in (workshopleitende Person) interviewt die Sprecher\*innen der einzelnen Interessensgruppen zu dem Szenario.
 
 (Fishbowl-Methode: Die Sprecher\*innen und die\*der Moderator\*in sitzen in einem inneren Stuhlkreis und diskutieren das Szenario. Die anderen Teilnehmer\*innen bilden einen äußeren Kreis und beobachten die Diskussion.)
-
-## Reflektion & Nachbesprechung (15 Minuten)
-
-Die Diskussion kann offen gestaltet werden.
 
 
 \newpage

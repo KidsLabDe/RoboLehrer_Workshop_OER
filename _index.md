@@ -1,5 +1,5 @@
 ---
-title: "Robo-Lehrer an die Macht?"
+title: "Robo-Lehrer*innen an die Macht?"
 titlepage: true
 titlepage-logo: "titelbild.png"
 logo-width: 100mm
@@ -7,7 +7,7 @@ toc: true
 toc-title: "Übersicht"
 toc-own-page: true
 author: KidsLab.de gGmbH
-date: "Juli 2024"
+date: "November 2024"
 subject: "Markdown"
 keywords: [Markdown, Example]
 lang: "de"
@@ -64,8 +64,8 @@ Der Workshop hat das Ziel, den Teilnehmer\*innen Kenntnisse über Künstliche In
 |Was |Details|
 -|-
 **Software:**       | keine
-**Geräte Mentor:**         | Laptop & Beamer für Präsentation, auch ohne möglich
-**Geräte Teilnehmer:**         | Tablet o.ä. mit Zugang zu ChatGPT (optional) - ein Tablet für 2-4 Teilnehmer\*innen
+**Geräte Mentor*in:**         | Laptop & Beamer für Präsentation, auch ohne möglich
+**Geräte Teilnehmer\*innen:**         | Tablet o.ä. mit Zugang zu ChatGPT (optional) - ein Tablet für 2-4 Teilnehmer\*innen
 **Internet:**       | ChatGPT benötigt Internet
 **Accounts:**   | Zugriff auch ohne Account möglich, Account wird aber empfohlen
 **Moderations-Stuff:**   | Klebezettel, Stifte, Flipchart etc., mehrfarbige Zettel für Namensschilder (4 Farben)

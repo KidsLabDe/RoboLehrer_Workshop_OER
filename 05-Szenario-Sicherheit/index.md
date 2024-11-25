@@ -25,7 +25,7 @@ Die Schule setzt diese Technik ein, um eine sichere und produktive Lernumgebung 
 
 ## Zusammenfassung
 
-In dieser Situation gibt es eine moderne Schule mit viel Technik. Die Schule nutzt KI, um auf die Schüler\*innen aufzupassen und deren Verhalten zu beobachten.
+In diesem Szenario gibt es eine moderne Schule mit viel Technik. Die Schule nutzt KI, um auf die Schüler\*innen aufzupassen und deren Verhalten zu beobachten.
 So funktioniert es:
 
 - Überall in der Schule gibt es Kameras und Sensoren.
