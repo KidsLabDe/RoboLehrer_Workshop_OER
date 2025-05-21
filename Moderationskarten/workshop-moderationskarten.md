@@ -5,9 +5,22 @@ paginate: true
 header: "Robo-Lehrer*innen an die Macht? | KidsLab.de gGmbH"
 footer: "CC BY 4.0 KidsLab | Zielgruppe ab 10 Jahre"
 style: |
+  @import url('https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;700&family=Pixelify+Sans:wght@400;500;600&display=swap');
   section {
     font-size: 28px;
   }
+
+  h1 {
+    font-family: 'Space Grotesk', sans-serif;
+    color: #1e3a8a;
+    font-size: 2em;
+    font-weight: 700;
+  }
+  h2, h3, h4, h5, h6 {
+    font-family: 'Pixelify Sans', cursive;
+    font-weight: 500;
+  }
+
   h1 {
     color: #1e3a8a;
     font-size: 2em;
@@ -114,7 +127,6 @@ Die Farben werden später zur Gruppeneinteilung verwendet. Da die Teilnehmenden 
 ## Einführungsvideo
 - Video: "Was ist KI?" vom KICampus (2 Minuten)
 - https://ki-campus.org/videos/wasistki
-- ![qrcode-ki-einführung](/Users/kingbbq/src/RoboLehrer_Workshop_OER/Moderationskarten/qrcode-ki-einführung.png)
 
 </div>
 <div>
@@ -295,9 +307,6 @@ Die Farben werden später zur Gruppeneinteilung verwendet. Da die Teilnehmenden 
 ## Für alle Rollen:
 - Welche Vorteile hat das Szenario?
 - Welche Nachteile?
-- Wie könnte eine Einführung stattfinden?
-- Was ist wichtig, damit das Ganze funktioniert?
-- Wie beurteilst Du das Szenario insgesamt: positiv oder negativ?
 
 ---
 
@@ -361,6 +370,13 @@ Die Farben werden später zur Gruppeneinteilung verwendet. Da die Teilnehmenden 
 3. **Ethik und Datenschutz:**
    - Welche ethischen Überlegungen spielen eine Rolle?
    - Wie adressierst du Datenschutz- und Sicherheitsbedenken?
+
+---
+
+# Abschlussrunde Interview 
+
+- Was ist wichtig, damit das Ganze funktioniert?
+- Wie beurteilst Du das Szenario insgesamt: positiv oder negativ?
 
 ---
 
