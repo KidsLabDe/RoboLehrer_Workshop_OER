@@ -190,6 +190,48 @@ Die Farben werden später zur Gruppeneinteilung verwendet. Da die Teilnehmenden 
 
 # Das Rollenspiel beginnt! (60 Minuten)
 
+---
+
+# Was ist ein Rollenspiel? 
+
+## Das Konzept erklären (5 Minuten)
+
+**Rollenspiel = durch andere Brille schauen**
+
+- Ihr müsst **nicht schauspielern** oder euch verstellen
+- Ihr sollt nur überlegen: *"Was würde diese Person denken?"*
+- Wie bei einem Videospiel: Ihr schlüpft in einen anderen Charakter
+- Es gibt **keine richtigen oder falschen** Antworten
+
+<div class="important">
+Wichtig: Betone, dass sie nur die Gedanken und Gefühle der Rolle übernehmen, nicht theatralisch agieren müssen!
+
+</div>
+
+------
+
+# Aufwärmspiel: Perspektiven-Roulette 
+
+## Beispiel-Situation (5 Minuten):
+
+**"Ab nächster Woche gibt es in der Schule nur noch veganes Essen"**
+
+### Schnell antworten aus verschiedenen Perspektiven:
+
+1. **Du bist Schüler\*in, der\*die Fleisch liebt** - Was denkst du?
+2. **Du bist die Schulköchin** - Wie fühlst du dich?
+3. **Du bist Elternteil mit kleinem Budget** - Was sind deine Sorgen?
+4. **Du bist Schulleitung** - Welche Herausforderungen siehst du?
+
+<div class="info">
+Ziel: Zeigen, dass jede Person unterschiedlich auf dieselbe Situation reagiert. Das ist Rollenspiel!
+
+</div>
+
+---
+
+
+
 ## Gruppeneinteilung (5 Minuten)
 - Jetzt die Bedeutung der Farben erklären:
   - **Rot**: Lehrer*innen
