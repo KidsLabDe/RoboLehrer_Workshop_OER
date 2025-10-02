@@ -17,83 +17,35 @@ pandoc-latex-environment:
   importantblock: [important]
 ...
 
+---
+title: "Rollenkarte: Bildungsmanagement"
+---
 
+# Rollenkarte: Bildungsmanagement (VHS-Leitung, Fachbereichsleitung)
 
-# Rollenkarte: Rektor\*innen
+## Stefan Bildungsplaner
 
-![](Rektor_klein.png)
+Du bist Stefan Bildungsplaner, 52 Jahre alt, und leitest den Fachbereich Integration und Berufliche Bildung an einer großen VHS. Du managst 30 Dozent*innen und 500 Kurse pro Jahr. Der Kostendruck ist enorm, gleichzeitig steigen die Qualitätsanforderungen.
 
-{{% notice note KI-generierte Bilder %}} 
-Alle Bilder in diesem Rollenspiel wurden mit DALL E hergestellt. 
-{{% /notice %}}
-
-## Herr Egino Patronas
-
-Du bist Egino Patronas, 55 Jahre alt und seit 7 Jahren Rektor. Du trägst meistens einen blauen Anzug, weil du denkst, dass er dir Seriosität verleiht, aber auch eine bunte Krawatte, um aufgeschlossen zu wirken. 
-Du liebst deinen Beruf, besonders wenn du siehst, wie sich Schüler\*innen entwickeln. Du bist offen für Neues, aber manchmal fühlst du dich überfordert von den vielen Veränderungen im Bildungswesen. Du siehst die Vorteile von Technologie, bist aber vorsichtig bei deren Einführung. Du möchtest deine Schule modernisieren, aber nicht überstürzt. Deine Stärke ist es, verschiedene Meinungen anzuhören und dann klare Entscheidungen zu treffen. In deiner Freizeit spielst du Schach und entspannst im Anzug am Strand.
-
-\newpage
-
+Du siehst in KI eine Chance, mehr Menschen zu erreichen und individuellere Angebote zu machen. Aber du machst dir Sorgen um dein Team: Werden Dozent*innen überflüssig? Wie manage ich den Wandel? Und wie stelle ich Qualität und Datenschutz sicher? Die Konkurrenz durch private Online-Anbieter wächst, du musst deine Einrichtung zukunftsfähig machen.
 
 ## Das Problem
 
-- Wie verändert die neue Technik die ganze Schule?
-- Welche Schwierigkeiten könnte es geben?
-- Wie fühlst du dich dabei, diese Technik einzuführen?
+- Wie balancierst du Effizienz und pädagogische Qualität?
+- Wie führst du dein Team durch die digitale Transformation?
+- Wie sicherst du Datenschutz bei vulnerablen Zielgruppen?
+- Wie positionierst du deine Einrichtung im Wettbewerb?
 
 ## Was bedeutet das für dich?
 
-- Wie kannst du die Schule gut leiten?
-- Wie sorgst du dafür, dass die Künstliche Intelligenz beim Lernen hilft?
-- Wie kannst du alle mitmachen lassen:
-  - Lehrkräfte
-  - Schüler\*innen
-  - Eltern
+- Welche Investitionen sind nötig und gerechtfertigt?
+- Wie schulst du deine Dozent*innen?
+- Wie misst du Erfolg und Qualität?
+- Wie kommunizierst du den Wandel nach innen und außen?
 
 ## Mehr Infos
 
-- Was willst du mit der neuen Technik erreichen?
-- Passt die Technik zu dem, was die Schule wichtig findet?
-- Wie planst du die Einführung der Technik?
-- Wie sorgst du dafür, dass die Technik für alle gut ist?
-
-\newpage
-
-
-## Argumente
-
-### Pro
-
--
--
--
--
-
-### Contra
-
--
--
--
--
-
-## Entscheidung: Chance oder Risiko?
-
-
-
-
-## Action Plan
-
-Ideen und Schritte, die helfen, das Beste aus der Situation herauszuholen und Probleme zu vermeiden. Dabei geht es auch darum, was jede Person tun kann, um gute Ergebnisse zu erreichen oder Schwierigkeiten zu verhindern.
-
--
--
--
--
--
--
-
-## Info: Was bedeutet das * Sternchen hier im Text?
-
-Den * nennt man Gender-Sternchen und wird Tschender-Sternchen gesprochen. Damit kommen alle Geschlechter in der Sprache vor: Männer/Jungs, Frauen/Mädchen und andere Menschen.
-
-Deshalb schreiben wir zum Beispiel: Schüler\*innen. Das Sternchen steht für alle Menschen, die sich nicht als Mädchen oder Junge verstehen. Im Wort Schüler\*innen gehören also alle Menschen dazu, egal wie sie sich bezeichnen oder fühlen.
+- Welche strategischen Ziele verfolgst du?
+- Wie stellst du Inklusion und Chancengleichheit sicher?
+- Welche Partnerschaften brauchst du?
+- Wie gehst du mit Widerständen um?

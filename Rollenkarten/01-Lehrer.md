@@ -17,83 +17,35 @@ pandoc-latex-environment:
   importantblock: [important]
 ...
 
+---
+title: "Rollenkarte: Dozent*innen/Trainer*innen"
+---
 
+# Rollenkarte: Dozent*innen/Trainer*innen
 
-# Rollenkarte: Lehrkräfte
+## Maria Lernbegleiter
 
-![](Lehrer_klein.png)
+Du bist Maria Lernbegleiter, 48 Jahre alt, und seit 15 Jahren Dozentin in der Erwachsenenbildung. Du unterrichtest Deutsch als Zweitsprache, digitale Grundkompetenzen und Bewerbungstraining. Deine Kurse sind oft sehr heterogen - von Akademiker*innen aus Syrien bis zu Analphabet*innen aus Afghanistan. 
 
-{{% notice note KI-generierte Bilder %}} 
-Alle Bilder in diesem Rollenspiel wurden mit DALL E hergestellt. Der Prompt für dieses Bild ist "Create a humorous pixel art style image of a teacher standing in front of a classroom holding a book in one hand and a magic wand in the other". Diskutiert gerne wieso die KI genau auf dieses Bild gekommen ist. 
-{{% /notice %}}
-
-## Frau Frieda Funkelstein
-
-Du bist Frieda Funkelstein, eine 60-jährige Lehrerin mit einer Vorliebe für bunte Brillen und witzige Socken. Dein Klassenzimmer ist ein Sammelsurium aus kreativen Basteleien und motivierenden Sprüchen. Du liebst es, deinen Unterricht mit überraschenden Elementen aufzupeppen, sei es durch spontane Rollenspiele oder unerwartete Anschauungsbeispiele aus deinem prall gefüllten "Wunderbeutel". Obwohl du anfangs skeptisch gegenüber neuer Technologie warst, hast du dich zu einer echten "Digi-Diva" entwickelt, die ihre Schüler\*innen regelmäßig mit coolen Apps und interaktiven Lerntools verblüfft. Dein Motto lautet: "Lernen ist wie Zaubern - man muss nur den richtigen Trick kennen!"
-
-\newpage
-
+Du bist technisch interessiert, aber auch skeptisch. Einerseits siehst du, wie KI dir bei der Unterrichtsvorbereitung helfen könnte, andererseits fürchtest du um den persönlichen Kontakt zu deinen Teilnehmenden. Viele von ihnen brauchen nicht nur Wissensvermittlung, sondern auch emotionale Unterstützung und Ermutigung. Du fragst dich, ob eine KI die kulturellen Nuancen und individuellen Schicksale deiner Teilnehmenden verstehen kann.
 
 ## Das Problem
 
-- Wie ändert die neue Technik deinen Unterricht?
-- Macht sie den Unterricht besser oder schwerer?
-- Wie fühlst du dich, wenn die Künstliche Intelligenz einige deiner Aufgaben macht?
+- Wie verändert KI deine Rolle als Dozentin?
+- Kannst du dich mehr auf die pädagogisch wertvollen Aspekte konzentrieren?
+- Verlierst du den persönlichen Draht zu vulnerablen Gruppen?
+- Wie gehst du mit der digitalen Kluft bei deinen Teilnehmenden um?
 
 ## Was bedeutet das für dich?
 
-- Wie kann dir die Technik bei der Arbeit helfen?
-- Wie verändert sie deine Arbeit als Lehrerin?
-- Was hoffst du? Was macht dir Sorgen?
-- Wie kannst du mit der Technik deinen Schüler\*innen besser helfen?
+- Wie kann KI dir bei der Binnendifferenzierung helfen?
+- Wie behältst du die Qualität und Menschlichkeit deiner Kurse?
+- Welche neuen Kompetenzen brauchst du selbst?
+- Wie vermittelst du zwischen KI-Unterstützung und persönlicher Betreuung?
 
 ## Mehr Infos
 
-- Was ist an dieser Technik besonders?
-- Warum kommt sie in die Schule?
-- Wie kannst du mit anderen Lehrkräften und Schüler\*innen zusammenarbeiten?
-- Wie nutzt ihr die Technik am besten?
-
-
-\newpage
-
-
-## Argumente
-
-### Pro
-
--
--
--
--
-
-### Contra
-
--
--
--
--
-
-## Entscheidung: Chance oder Risiko?
-
-
-
-
-## Action Plan
-
-Ideen und Schritte, die helfen, das Beste aus der Situation herauszuholen und Probleme zu vermeiden. Dabei geht es auch darum, was jede Person tun kann, um gute Ergebnisse zu erreichen oder Schwierigkeiten zu verhindern.
-
--
--
--
--
--
--
-
-
-## Info: Was bedeutet das * Sternchen hier im Text?
-
-Den * nennt man Gender-Sternchen und wird Tschender-Sternchen gesprochen. Damit kommen alle Geschlechter in der Sprache vor: Männer/Jungs, Frauen/Mädchen und andere Menschen.
-
-Deshalb schreiben wir zum Beispiel: Schüler\*innen. Das Sternchen steht für alle Menschen, die sich nicht als Mädchen oder Junge verstehen. Im Wort Schüler\*innen gehören also alle Menschen dazu, egal wie sie sich bezeichnen oder fühlen.
-
+- Was kann die KI, was du nicht kannst - und umgekehrt?
+- Wie kannst du KI als Werkzeug nutzen, ohne dich ersetzen zu lassen?
+- Welche ethischen Grenzen siehst du beim Einsatz von KI?
+- Wie stellst du sicher, dass niemand abgehängt wird?

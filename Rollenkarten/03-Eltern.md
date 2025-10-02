@@ -18,86 +18,35 @@ pandoc-latex-environment:
 ...
 
 
+---
+title: "Rollenkarte: Träger/Fördergeber"
+---
 
-# Rollenkarte: Eltern
+# Rollenkarte: Träger/Fördergeber (Kommune, Arbeitsagentur)
 
-![](Eltern_klein.png)
+## Petra Fördergeberin
 
-{{% notice note KI-generierte Bilder %}} 
-Alle Bilder in diesem Rollenspiel wurden mit DALL E hergestellt. 
-{{% /notice %}}
+Du bist Petra Fördergeberin, 45 Jahre alt, und arbeitest bei der Arbeitsagentur als Teamleiterin für berufliche Weiterbildung. Du verwaltest ein Budget von 10 Millionen Euro jährlich und musst nachweisen, dass die geförderten Maßnahmen zu nachhaltiger Integration in den Arbeitsmarkt führen.
 
-# Maren und Thomas (die Eltern)
-
-Du bist Maren, 42 Jahre alt, und dein Mann ist Thomas, 45 Jahre alt. Ihr seid die Eltern von Sam. Maren arbeitet als Mechanikerin in einer Autowerkstatt und Thomas ist Pfleger in einem Altenheim.
-Ihr seid beide mit Computern vertraut. Besonders Sams Begeisterung für neue Apps, Spiele und soziale Medien macht euch oft ratlos. Ihr versucht mitzuhalten, aber es fällt euch nicht immer leicht zu verstehen, was Sam da eigentlich den ganzen Tag am Handy macht.
-In eurer Freizeit geht ihr gerne gemeinsam ins Kino oder trefft euch mit Freund\*innen zum Grillen. Ihr schätzt persönlichen Kontakt und macht euch Sorgen, dass Sam zu viel Zeit online verbringt.
-
-\newpage
+KI verspricht bessere Erfolgsquoten und skalierbare Lösungen. Aber du musst auch sicherstellen, dass niemand durchs Raster fällt. Deine Zielgruppen sind oft Menschen in schwierigen Lebenslagen. Du brauchst messbare Erfolge, aber auch soziale Verantwortung. Wie rechtfertigst du KI-Investitionen gegenüber der Politik?
 
 ## Das Problem
 
-- Wie verändert die Künstliche Intelligenz das Lernen deines Kindes?
-- Wie verändert sie den Alltag deines Kindes?
-- Machst du dir Sorgen um:
-  - die Daten deines Kindes?
-  - die Zeit, die dein Kind mit Technik verbringt?
+- Wie misst du den Return on Investment?
+- Wie stellst du Chancengleichheit sicher?
+- Wie vermeidest du digitale Ausgrenzung?
+- Wie begründest du Förderentscheidungen?
 
 ## Was bedeutet das für dich?
 
-- Verstehst du die KI?
-- Wie kannst du deinem Kind helfen:
-  - die Technik gut zu nutzen?
-  - nicht von der Technik überfordert zu sein?
-- Wie kannst du mit Lehrer\*innen und der Schule reden?
-- Wie könnt ihr zusammen das Beste für dein Kind erreichen?
+- Welche Erfolgsindikatoren sind aussagekräftig?
+- Wie gestaltest du Förderrichtlinien KI-gerecht?
+- Wie kontrollierst du Qualität und Datenschutz?
+- Wie kommunizierst du mit Politik und Öffentlichkeit?
 
 ## Mehr Infos
 
-- Wie kann die Technik deinem Kind beim Lernen helfen?
-- Wie kann sie deinem Kind beim Großwerden helfen?
-- Was siehst du Gutes daran?
-- Wie kannst du mehr über die Technik lernen?
-- Wie kannst du mitreden, wenn es um die Technik in der Schule geht?
-
-
-\newpage
-
-
-## Argumente
-
-### Pro
-
--
--
--
--
-
-### Contra
-
--
--
--
--
-
-## Entscheidung: Chance oder Risiko?
-
-
-
-
-## Action Plan
-
-Ideen und Schritte, die helfen, das Beste aus der Situation herauszuholen und Probleme zu vermeiden. Dabei geht es auch darum, was jede Person tun kann, um gute Ergebnisse zu erreichen oder Schwierigkeiten zu verhindern.
-
--
--
--
--
--
--
-
-## Info: Was bedeutet das * Sternchen hier im Text?
-
-Den * nennt man Gender-Sternchen und wird Tschender-Sternchen gesprochen. Damit kommen alle Geschlechter in der Sprache vor: Männer/Jungs, Frauen/Mädchen und andere Menschen.
-
-Deshalb schreiben wir zum Beispiel: Lehrer\*innen. Das Sternchen steht für alle Menschen, die sich nicht als Frau oder Mann verstehen. Im Wort Lehrer\*innen gehören also alle Menschen dazu, egal wie sie sich bezeichnen oder fühlen.
+- Welche gesellschaftlichen Ziele verfolgst du?
+- Wie förderst du Innovation und Inklusion gleichzeitig?
+- Welche rechtlichen Rahmenbedingungen musst du beachten?
+- Wie evaluierst du langfristige Wirkungen?

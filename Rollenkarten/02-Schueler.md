@@ -18,84 +18,35 @@ pandoc-latex-environment:
 ...
 
 
+---
+title: "Rollenkarte: Teilnehmende/Lernende"
+---
 
-# Rollenkarte: Schüler\*innen
+# Rollenkarte: Teilnehmende/Lernende
 
-![](Schueler_klein.png)
+## Amir Neustarter
 
-{{% notice note KI-generierte Bilder %}} 
-Alle Bilder in diesem Rollenspiel wurden mit DALL E hergestellt. Der Prompt für dieses Bild ist "Create a humorous pixel art style image of a student sitting at a desk surrounded by flying books and a digital tablet". Diskutiert gerne wieso die KI genau auf dieses Bild gekommen ist.
-{{% /notice %}}
+Du bist Amir Neustarter, 35 Jahre alt, und seit drei Jahren in Deutschland. Du warst in deinem Heimatland Ingenieur, aber deine Abschlüsse werden hier nicht anerkannt. Jetzt besuchst du verschiedene Weiterbildungen - Deutschkurs, IT-Grundlagen und eine Umschulung zum Fachinformatiker.
 
-## Sam Schlaukopf
-
-Du bist Sam Schlaukopf, 15 Jahre alt und in der 9. Klasse. Du trägst am liebsten weite Pullover und Cargohosen. Deine Mitschüler\*innen schätzen dich für deinen Humor und deine Hilfsbereitschaft. In der Schule bist du neugierig und lernst gerne, aber du magst es auch, die Dinge zu hinterfragen. Technologie findest du spannend, besonders wenn es um Videospiele und soziale Medien geht. Du schwankst oft zwischen Begeisterung für neue Möglichkeiten und Sorgen um Datenschutz. In deiner Freizeit spielst du in einer Band und engagierst dich in der Schüler\*innenvertretung. Dein Lieblingsfach ist Kunst, weil du dort deine Kreativität ausleben kannst.
-
-\newpage
-
+Du jonglierst zwischen Familie, Nebenjob und Lernen. Oft kannst du nur spät abends lernen, wenn die Kinder schlafen. Die Idee einer KI, die dir jederzeit hilft, klingt verlockend. Gleichzeitig hast du Bedenken: Versteht die KI deine speziellen Herausforderungen? Was passiert mit deinen persönlichen Daten? Und kannst du ohne menschlichen Kontakt wirklich gut lernen?
 
 ## Das Problem
 
-- Neue Technik verändert das Lernen. Wie?
-- Ist das gut oder schlecht für dich?
-- Macht dir die Künstliche Intelligenz Sorgen? Zum Beispiel:
-  - Bezüglich deinen privaten Daten?
-  - Wie du mit anderen Schüler\*innen redest?
+- Bekommst du endlich die individuelle Unterstützung, die du brauchst?
+- Wird deine Privatsphäre geschützt (Aufenthaltsstatus, Bildungsbiografie)?
+- Kann KI kulturelle und sprachliche Barrieren überwinden?
+- Verlierst du wichtige soziale Kontakte in den Kursen?
 
 ## Was bedeutet das für dich?
 
-- Wie kann dir die KI beim Lernen helfen?
-- Was brauchst du, um gut zu lernen?
-- Wie kannst du mit der Technik:
-  - Gute Noten erreichen?
-  - Neue Sachen lernen?
-  - Mehr Spaß in der Schule haben?
+- Wie kann KI dir beim Lernen außerhalb der Kurszeiten helfen?
+- Wie nutzt du die Technologie optimal für deine Ziele?
+- Welche digitalen Kompetenzen brauchst du zusätzlich?
+- Wie findest du die Balance zwischen digitalem und persönlichem Lernen?
 
 ## Mehr Infos
 
-- Was ist an dieser Technik besonders?
-- Warum kommt sie in die Schule?
-- Wie kannst du mit Lehrer\*innen und anderen Schüler\*innen arbeiten?
-- Wie nutzt ihr die Technik am besten?
-
-
-\newpage
-
-
-## Argumente
-
-### Pro
-
--
--
--
--
-
-### Contra
-
--
--
--
--
-
-## Entscheidung: Chance oder Risiko?
-
-
-
-
-## Action Plan
-
-Ideen und Schritte, die helfen, das Beste aus der Situation herauszuholen und Probleme zu vermeiden. Dabei geht es auch darum, was jede Person tun kann, um gute Ergebnisse zu erreichen oder Schwierigkeiten zu verhindern.
-
--
--
--
--
--
--
-
-## Info: Was bedeutet das * Sternchen hier im Text?
-
-Den * nennt man Gender-Sternchen und wird Tschender-Sternchen gesprochen. Damit kommen alle Geschlechter in der Sprache vor: Männer/Jungs, Frauen/Mädchen und andere Menschen.
-
-Deshalb schreiben wir zum Beispiel: Schüler\*innen. Das Sternchen steht für alle Menschen, die sich nicht als Mädchen oder Junge verstehen. Im Wort Schüler\*innen gehören also alle Menschen dazu, egal wie sie sich bezeichnen oder fühlen.
+- Welche konkreten Vorteile erhoffst du dir?
+- Welche Unterstützung brauchst du beim Umgang mit der KI?
+- Wie wichtig ist dir der Austausch mit anderen Lernenden?
+- Was brauchst du, um der Technologie zu vertrauen?
