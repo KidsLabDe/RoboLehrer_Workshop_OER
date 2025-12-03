@@ -1,5 +1,6 @@
 #!/bin/bash
 
+npx @marp-team/marp-cli Moderationskarten/workshop-moderationskarten.md --pdf
 
 # create tmp dir
 mkdir -p .tmp

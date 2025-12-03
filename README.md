@@ -1,60 +1,57 @@
-# OER Template
+# Robo-Lehrer*innen an die Macht?  
+Ein Rollenspiel-Workshop über Künstliche Intelligenz in der Schule  
 
-Dies ist eine Vorlage, um Open Educational Resources (OER) mit Markdown zu erstellen. Die Ausgabe kann als Word-Dokument, PDF oder Webseite erfolgen.
+---
 
-## Voraussetzungen
+## Überblick  
+Dieser Workshop wurde von **KidsLab gGmbH** entwickelt, um Schüler*innen ab der 5. Klasse spielerisch an das Thema **Künstliche Intelligenz (KI)** heranzuführen.  
+Die Teilnehmer*innen schlüpfen in verschiedene Rollen – Schüler*innen, Lehrer*innen, Eltern oder Schulleitung – und diskutieren in einem Rollenspiel Chancen und Risiken des KI-Einsatzes im Schulalltag [oai_citation:0‡RoboLehrer an die Macht.docx](sediment://file_00000000ea14620a9367517b269ff018).  
 
-Um diese Vorlage verwenden zu können, benötigst du Folgendes:
+Der Workshop ist so gestaltet, dass er ohne spezielle Software oder Technik durchgeführt werden kann. Optional können Tablets mit Zugang zu ChatGPT eingesetzt werden.  
 
-- Einen Markdown-Editor deiner Wahl (z.B. Visual Studio Code, Atom, Typora)
-- Markdown-Kenntnisse
+---
 
-## Verwendung
+## Inhalte & Materialien  
+Alle Materialien sind frei verfügbar und können heruntergeladen werden:  
+👉 [**Download der Materialien (Releases)**](https://github.com/KidsLabDe/RoboLehrer_Workshop_OER/releases)  
 
-1. Nutze dieses Repo als Template
-2. Öffne die Markdown-Datei in deinem bevorzugten Editor.
-3. Bearbeite den Inhalt der Vorlage entsprechend deinen Bedürfnissen.
-4. Speichere die Datei und generiere die Ausgabe in einem der unterstützten Formate.
+Enthalten sind unter anderem:  
+- Ausführliches Workshop-Skript (inkl. Ablaufplan, Methoden, Szenarien) [oai_citation:1‡RoboLehrer an die Macht.docx](sediment://file_00000000ea14620a9367517b269ff018)  
+- Präsentation & Arbeitsmaterialien  
+- **Moderationskarten** zur Unterstützung der Workshopleitung [oai_citation:2‡workshop-moderationskarten.pdf](sediment://file_0000000004086243aa695cd5ac89a183)  
+- Vorbereitungs- und Reflexionsfragen für die Teilnehmer*innen  
 
-## Präsentationen
+---
 
-Im Unterordner "Präsentation" gibt es eine einfache Vorlage für marp (https://marp.app/)
-Die Komplette Anleitung findest Du hier: https://marpit.marp.app/markdown
+## Zielgruppe & Rahmenbedingungen  
+- **Zielgruppe:** Schüler*innen ab 10 Jahren  
+- **Gruppengröße:** 10–30 Teilnehmer*innen + 1–2 Mentor*innen  
+- **Dauer:** ca. 2 Stunden  
+- **Benötigtes Material:** Klebezettel, Stifte, Flipchart, Namensschilder (4 Farben), optional Tablets mit Internetzugang  
 
+---
 
-## Ausgabeformate
+## Lizenz & Weitergabe  
+Dieses Projekt steht unter der Lizenz:  
+**[CC BY 4.0 KidsLab](https://creativecommons.org/licenses/by/4.0/)**  
 
-Diese Vorlage unterstützt die Generierung von OER in den folgenden Formaten:
+Das bedeutet:  
+- Nutzung, Veränderung und Weitergabe sind erlaubt  
+- Bitte immer **KidsLab gGmbH** als Urheber nennen  
 
-- Word-Dokument (.docx)
-- PDF-Dokument (.pdf)
-- Webseite (.html)
+**Zielgruppe: ab 10 Jahren**  
 
-`./build.sh`
+---
 
-## Lizenz
+## Kontakt  
+Bei Fragen oder Feedback:  
 
-Dieses Projekt steht unter der Creative Commons Lizenz. Du kannst es frei verwenden, anpassen und weitergeben.
+Gregor Walter  
+KidsLab gGmbH  
+📧 [gregor@kidslab.de](mailto:gregor@kidslab.de)  
+📱 Tel. / WhatsApp: 0821-99951920  
 
-Shield: [![CC BY 4.0][cc-by-shield]][cc-by]
+---
 
-Dieses Werk ist lizenziert unter einer
-[Creative Commons Namensnennung 4.0 International Lizenz][cc-by].
-
-[![CC BY 4.0][cc-by-image]][cc-by]
-
-[cc-by]: http://creativecommons.org/licenses/by/4.0/
-[cc-by-image]: https://i.creativecommons.org/l/by/4.0/88x31.png
-[cc-by-shield]: https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg
-
-## Beitragende
-
-Wir freuen uns über Beiträge zu diesem Projekt. Wenn du Verbesserungsvorschläge hast oder Fehler gefunden hast, kannst du gerne einen Pull Request erstellen.
-
-## Kontakt
-
-Bei Fragen oder Anregungen kannst du uns unter gregor@kidslab.de kontaktieren.
-
-## Inhalte mit Unterstützung von KI-Systemen ertsellt
-
-Einige der Inhalte dieses OER wurden mit Unterstützung von KI-Systemen, konkret ChatGPT 4.0, erstellt. Beispiel Titelbild & Text- und Rechtschreibkontrolle.
+## Hinweis  
+Alle Bilder im Workshop wurden mithilfe von **KI (DALL·E)** generiert und dienen als Diskussionsanlass für die Teilnehmenden.  
